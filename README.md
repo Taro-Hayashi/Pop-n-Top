@@ -10,10 +10,10 @@ testes
 
 <a id="anchor1"></a>
 ##1.aaa
-oooooo
+oooooo。
 oooooooo\n
-o
-oofasd
+o。
+oofasd\e
 <a id="anchor2"></a>
 ofaosdofaosdf
 dfasdfasdfa
