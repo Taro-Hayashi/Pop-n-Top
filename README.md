@@ -2,7 +2,7 @@
 
 testes
 ##目次
--[aa](#aaa)
+-[aa](#aaa)\n
  -[aaa](#aaaaaa)
  -[teste](#1)
  -
@@ -11,7 +11,7 @@ testes
 <a id="anchor1"></a>
 ##1.aaa
 oooooo
-oooooooo
+oooooooo\n
 o
 oofasd
 <a id="anchor2"></a>
