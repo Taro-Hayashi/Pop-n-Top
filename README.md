@@ -28,7 +28,7 @@
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
 |キーキャップ（CherryMX互換）|50|[選び方](#キーキャップの選び方)|
 |オス-オス ミニプラグケーブル|1|TRSケーブル、TRRSケーブルとしても売られています。|
-|Micro USB ケーブル|1|Micro-Bのもの。|
+|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
 
 ## 必要な工具
 |工具名| |
