@@ -102,7 +102,7 @@ Chrome, Edgeが使える場合Pro Micro Web Updaterが簡単です。
 
 QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
-- テスト用ファームウェア [popntop_test.hex](firmware/popntop_test.hex)
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 
 Openを押してダウンロードしたファイルを指定してAuto-Flashにチェックを入れます。  
 MCUがatmega32u4になっていることも確認してください。  
@@ -148,7 +148,7 @@ Mac用のサンプルファームウェア shotgun_mac.hex
 ## BLE Micro Pro, 電池基板、LPME-IO2a対応について
 ## Pro Micro Web Updaterを使う場合
 ファームウェアをダウンロードしてwebサイトにアクセスしてください。
-- テスト用ファームウェア [popntop_test.hex](firmware/popntop_test.hex)
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 
