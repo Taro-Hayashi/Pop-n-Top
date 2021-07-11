@@ -165,8 +165,9 @@ Chrome, Edgeがインストールされていれば、Remapを使うとソフト
 - VIA [https://github.com/the-via/releases/releases/tag/v1.3.1](https://github.com/the-via/releases/releases)
 - popntop.json
 
-x
-
+![](img/via1.jpg)
+![](img/via2.jpg)
+![](img/via3.jpg)
 
 ## キースイッチの選び方
 
