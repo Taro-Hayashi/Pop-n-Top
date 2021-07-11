@@ -32,8 +32,8 @@
 |Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
 |キーキャップ（CherryMX互換）|50|[選び方](#キーキャップの選び方)|
-|TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです|
-|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
+|TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。https://shop.yushakobo.jp/products/trrs_cable|
+|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m|
 
 ## 必要な工具
 |工具名| |
@@ -44,7 +44,7 @@
 |細いドライバー|1番ドライバー|
 
 ## あると便利な工具
-|工具名| |
+|工具名|私が使っているもの（Amazonアソシエイト）|
 |-|-|
 |斜めに切ったタイプのこて先||
 |温度調節可能なはんだごて|300度-350度前後|
@@ -88,15 +88,14 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 そして、Pro Micro側のコンスルーの足を半田付けします。  
 ![四隅を先に固定すると安定します。](img/sample.jpg)   
 これでPro Microを抜き差しできるようになりました。  
-両手分作り終えたら次に進んでください。
+両手分作り終えたら次に進んでください。  
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 
 ## 動作テスト
 電気的な部分が完成したのでPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつないでください。  
-USBからでないと書き込めないので分割キーボードでは左側と右側に同じ手順を繰り返します。  
+キットの左手用とPCをUSBケーブルでつないでください。   
 
-Chrome, Edgeを使っているならPro Micro Web Updaterの方が手順が少ないです。  
+Chrome, Edgeを使っているならPro Micro Web Updaterだとブラウザだけでできます。  
 [▼Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
 
 使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
@@ -106,22 +105,22 @@ Chrome, Edgeを使っているならPro Micro Web Updaterの方が手順が少�
 Openを押してダウンロードしたファイルを指定してAuto-Flashにチェックを入れます。  
 MCUがatmega32u4になっていることも確認してください。  
 ![赤の部分に注意](img/qmktoolbox1.png)
-
+　　
 キットのリセットスイッチを押すとPro Microが赤く光り自動でファームウェアが書き込まれます。  
 正常に書き込まれた場合"Thank you"のメッセージが出ます。  
-![](img/qmktoolbox2.png)　　
-  
+![](img/qmktoolbox2.png)  
+（エラーが出る場合Auto-Flashのチェックを外し、リセットスイッチを押した直後にQMK ToolboxのFlashのボタンを押してみてください。）  
+
 ファームウェアを更新する時もこの手順で行います。  
 
 <a id="anchor1"></a>
-エラーが出る場合Auto-Flashのチェックを外し、リセットスイッチを押した後にQMK ToolboxのFlashのボタンを押してください。  
-赤く光らない場合リセットボタンのはんだ付けか、テスターがある場合スイッチを押した時に導通するか確認してください。  
 
-反対側にも同じファームウェアを書き込みます。
+USBで接続しないと書き込めないので分割キーボードでは左手用と右手用に同じ手順を繰り返します。
+反対側にも同じファームウェアを書き込んでください。  
 
 書き込めたら一度USBケーブルを外し、TRRSケーブルで左右を繋げます。  
 （TRRSケーブルを抜き差しするときはPCとは接続しない方が安全だそうです。）  
-左側とPCをUSBケーブルで接続してタイプすると1-50の数字が打てるはずです。  
+左手用とPCをUSBケーブルで接続してタイプすると1-50の数字が打てるはずです。  
 反応しないキーが一箇所の場合スイッチ、同じ行で複数個の場合ダイオードのはんだが原因だと思います。   
 
 お疲れ様でした。問題がなければはんだ付けは終了です。
@@ -157,7 +156,6 @@ Pro Microを覆うようにネジ（長）で止めます。
 
 WindowsとMacの両方である程度キーを網羅するために必要以上にややこしくなっています。  
 使わないキーやキーパッドに任せるキーは削除したり使用頻度の高いキーに入れ替えてしまいましょう。  
-私はレイヤーは使わないので消してしまっています。
 
 Chrome, EdgeがインストールされていればRemapを使うとブラウザだけで変更できます。
 [▼Remapを使う場合](#キーマップの変更にRemapを使う場合)  
@@ -184,9 +182,14 @@ CONFIGUREタブに行くとキーマップを設定できるようになって�
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_backcolor=#ffffff&name=Layout%20-%20Pop'n%20Top%20KEYBOARD&author=T.Hayashi&switchMount=cherry&switchBrand=kailh&switchType=PG151101D05//D43&pcb:true;&@_c=#777777&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#cf7e7e;&=!&=/@&=#&=$&=%25&_st=PG151101D05//D43;&=~&_x:3&c=#cccccc;&=&_c=#cf7e7e;&=F1&=F2&=F3&=F4&=F5&=F6&_c=#cccccc;&=&_c=#cf7e7e&w:2;&=delete;&@_x:0.75&c=#aaaaaa&w:1.75;&=&_c=#cf7e7e;&=%5E&=/&&=*&_n:true;&=(&=)&_c=#aaaaaa&w:1.5;&=&_x:2&w:1.5;&=&_c=#cf7e7e;&=F7&_n:true;&=F8&=F9&=F10&=F11&=F12&_c=#d99393&w:2;&=↑;&@_x:0.5&c=#aaaaaa&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#cf7e7e;&=&_c=#aaaaaa;&=&_x:1;&=&=&_c=#cccccc;&=&=&=&=&=&_c=#d99393;&=←&_w:1.75;&=↓&_fa@:2;;&=→;&@_y:-0.25&x:8.75&c=#cccccc&t=#c91818&a:5&f:3&w:2.5&d:true;&=↑%0AUPPER%20LAYER;&@_y:-0.25&c=#777777&t=#000000%0A#dbbc1f&f2:2;&=esc%0A長押しRGB&_c=#aaaaaa&t=#000000&a:7&w:1.5;&=tab&_c=#cccccc;&=Q&=W&=E&=R&=T&_a:5&f:3;&=/_%0A%0A%0A%0A%0A%0A-&_x:3&f:3;&=+%0A%0A%0A%0A%0A%0A/=&_a:7;&=Y&=U&=I&=O&=P&_a:5&f:3;&=%7B%0A%0A%0A%0A%0A%0A%5B&_f:3;&=%7D%0A%0A%0A%0A%0A%0A%5D&_c=#aaaaaa&a:7&w:2;&=backspace;&@_x:0.75&w:1.75;&=control&_c=#cccccc;&=A&=S&=D&_n:true;&=F&=G&_c=#aaaaaa&w:1.5;&=space&_x:2&w:1.5;&=space&_c=#cccccc;&=H&_n:true;&=J&=K&=L&_a:5&f:3;&=/:%0A%0A%0A%0A%0A%0A/;&_f:3;&=%22%0A%0A%0A%0A%0A%0A'&_c=#aaaaaa&a:7&w:2;&=enter;&@_x:0.5&w:2;&=shift&_c=#cccccc;&=Z&=X&=C&=V&=B&_c=#aaaaaa&t=#c91818%0A#000000&a:5&fa@:2;;&=長押しUPPER%0A英数&_t=#000000&fa@:2&:1;;&=space%0A長押しWin//cmd&_x:1;&=space%0A長押しWIN//CMD&_t=#000000%0A#152bab&fa@:2&:2;;&=かな%0A長押しLOWER&_c=#cccccc&t=#000000&a:7;&=N&=M&_a:5&f:3;&=%3C%0A%0A%0A%0A%0A%0A,&_f:3;&=%3E%0A%0A%0A%0A%0A%0A.&_f:3;&=?%0A%0A%0A%0A%0A%0A//&_f:3;&=%7C%0A%0A%0A%0A%0A%0A%5C&_c=#aaaaaa&a:7&f:3&w:1.75;&=shift&_f:3;&=alt;&@_x:8.75&c=#cccccc&t=#152bab#1d2c8c%0A#152bab&a:5&f:3&w:2.5&d:true;&=LOWER%E3%80%80LAYER%0A↓;&@_y:-0.5&c=#777777&t=#000000&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#8792d6&a:5&f:3;&=!%0A%0A%0A%0A%0A%0A1&_f:3;&=/@%0A%0A%0A%0A%0A%0A2&_f:3;&=#%0A%0A%0A%0A%0A%0A3&_f:3;&=$%0A%0A%0A%0A%0A%0A4&_f:3;&=%25%0A%0A%0A%0A%0A%0A5&_f:3;&=~%0A%0A%0A%0A%0A%0A%60&_x:3&c=#cccccc&a:7;&=&=&=&=&=&=&_c=#8792d6&f:3;&=(&_f:3;&=)&_c=#aaaaaa&w:2;&=;&@_x:0.75&w:1.75;&=&_c=#8792d6&a:5&f:3;&=%5E%0A%0A%0A%0A%0A%0A6&_f:3;&=/&%0A%0A%0A%0A%0A%0A7&_f:3;&=*%0A%0A%0A%0A%0A%0A8&_f:3&n:true;&=(%0A%0A%0A%0A%0A%0A9&_f:3;&=)%0A%0A%0A%0A%0A%0A0&_c=#aaaaaa&a:7&w:1.5;&=&_x:2&w:1.5;&=&_c=#8792d6&f:3;&=←&_f:3&n:true;&=↓&_f:3;&=↑&_f:3;&=→&_c=#cccccc;&=&=&_c=#aaaaaa&w:2;&=;&@_x:0.5&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#aaaaaa;&=&=&_x:1;&=&_c=#8792d6;&=&_c=#cccccc;&=&=&=&=&=&=&_c=#aaaaaa&f:3&w:1.75;&=shift&=;&@_y:0.75&c=#e0cb58;&=&_c=#aaaaaa&w:1.5;&=&_c=#cccccc;&=&=&=&=&=&=&_x:0.25&t=#a18806&a:5&f:3&w:2.5&d:true;&=RGB%20LAYER&_x:0.25&t=#000000&a:7;&=&=&_c=#e0cb58&f:3;&=色相+&_f:3;&=彩度+&_f:3;&=明度+&_fa@:1;;&=スピード+&_c=#cccccc;&=&=&_c=#e0cb58&f:3&w:2;&=発光のオンオフ;&@_x:0.75&c=#aaaaaa&w:1.75;&=&_c=#cccccc;&=&=&=&_n:true;&=&=&_c=#aaaaaa&w:1.5;&=&_x:2&c=#e0cb58&fa@:2;&w:1.5;&=前のパターン&_c=#cccccc;&=&_n:true;&=&=&=&=&=&_c=#e0cb58&w:2;&=次のパターン;&@_x:0.5&c=#aaaaaa&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#aaaaaa;&=&=&_x:1;&=&_c=#cccccc;&=&=&_c=#e0cb58&f:3;&=色相-&_f:3;&=彩度-&_f:3;&=明度-&_fa@:1;;&=スピード%20-&_c=#cccccc;&=&_c=#aaaaaa&w:1.75;&=&=)  
 ## 液晶タブレットに乗せる場合
 
-## BLE Micro Pro, 電池基板、LPME-IO2a対応について
+## BLE Micro Pro, 電池基板、LPME-IO2aについて
 配線、スペース的には対応していると思います。  
 I2Cを使う場合TRRSジャック付近のジャンパー二つを短絡してD2ピンは無効にしてください。　
+
+## USBケーブルを右手用から出したい
+こちらをお使いください
+- ファームウェア
+- JSON
 
 ## ファームウェアの書き込みにPro Micro Web Updaterを使う場合
 ファームウェアをダウンロードしてwebサイトにアクセスしてください。  
@@ -209,11 +212,36 @@ I2Cを使う場合TRRSジャック付近のジャンパー二つを短絡してD
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 
 ## キーマップの変更にRemapを使う場合
+JSONファイルをダウンロードしてwebサイトにアクセスしてください。
+- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-77514246efba8c20ff93/popntop.json)
+- Remap https://remap-keys.app
 
-## ケーブルを右から出したい
-こちらをお使いください
-- ファームウェア
-- JSON
-
+左の青いボタンを押して、次の画面では+KEYBOARDをクリックします。  
+![](img/remap1.png)   
+アドレスバーからメッセージが出てくるのでキーボードの名前をクリックします。  
+ダウンロードしたJSONファイルを指定するかドラッグアンドドロップしましょう。  
+![](img/remap2.png)  
+下に並んでいるキーをキーボードにドラッグアンドドロップすると配置が変わります。  
+右上のflashボタンを押すとキーボードに反映されます。  
+![](img/remap3.png)
+  
 ## おまけ
+寸法の画像とダンボールで作れるペーパークラフトを用意したのでサイズ感の確認にご利用下さい。
+定規があればプリントしなくても作れます。
+shotgun_p.pdf
+ネットプリント
+
+ボトムプレートのデザインデータ kicadプロジェクトファイル svg dfx
+アクリルプレートのデザインデータ kicadプロジェクトファイル svg dfx
+発注先のルールに沿ってデータを修正してください。
+マット素材のアクリルはLEDの光が拡散し柔らかい印象になります。
+
+マイレイアウト
+
+ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。
+
+foostan様のフットプリントを流用、改変して使わせていただきました。
+https://github.com/foostan/kbd/
+https://github.com/foostan/kbd/blob/master/LICENSE
+
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
