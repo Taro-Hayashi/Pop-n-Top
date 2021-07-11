@@ -94,11 +94,9 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 
 ## 動作テスト
 電気的な部分が完成したのでPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBにつないでください。  
+キットとPCをUSBケーブルでつないでください。  
 USBからでないと書き込めないので分割キーボードでは左側と右側に同じ手順を繰り返します。  
-
-Chrome, Edgeが使える場合Pro Micro Web Updaterが簡単です。  
-[Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
+（Chrome, Edgeが使える場合Pro Micro Web Updaterの方が手順が少ないです。　[Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合) ）
 
 QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
