@@ -106,11 +106,11 @@ Chrome, Edgeを使っているならPro Micro Web Updaterの方が手順が少�
 
 Openを押してダウンロードしたファイルを指定してAuto-Flashにチェックを入れます。  
 MCUがatmega32u4になっていることも確認してください。  
-![赤の部分に注意](img/QMKToolbox1.png)
+![赤の部分に注意](img/qmktoolbox1.png)
 
 キットのリセットスイッチを押すとPro Microが赤く光り自動でファームウェアが書き込まれます。  
 正常に書き込まれた場合"Thank you"のメッセージが出ます。  
-![Thank you](img/QMKToolbox2.png)
+![Thank you](img/qmktoolbox2.png)
 ファームウェアを更新する時もこの手順で行います。  
 
 エラーが出る場合Auto-Flashのチェックを外し、リセットスイッチを押した後にQMK ToolboxのFlashのボタンを押してください。  
