@@ -32,8 +32,8 @@
 |Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
 |キーキャップ（CherryMX互換）|50|[選び方](#キーキャップの選び方)|
-|TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。https://shop.yushakobo.jp/products/trrs_cable|
-|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m|
+|TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。|
+|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
 
 ## 必要な工具
 |工具名| |
@@ -157,7 +157,7 @@ Pro Microを覆うようにネジ（長）で止めます。
 WindowsとMacの両方である程度キーを網羅するために必要以上にややこしくなっています。  
 使わないキーやキーパッドに任せるキーは削除したり使用頻度の高いキーに入れ替えてしまいましょう。  
 
-Chrome, EdgeがインストールされていればRemapを使うとブラウザだけで変更できます。
+Chrome, EdgeがインストールされていればRemapを使うとブラウザだけで変更できます。  
 [▼Remapを使う場合](#キーマップの変更にRemapを使う場合)  
 
 そうでない場合はVIAをインストールして、下記JSONファイルをダウンロードしてください。
@@ -218,12 +218,14 @@ JSONファイルをダウンロードしてwebサイトにアクセスしてく�
 
 左の青いボタンを押して、次の画面では+KEYBOARDをクリックします。  
 ![](img/remap1.png)   
+
 アドレスバーからメッセージが出てくるのでキーボードの名前をクリックします。  
 ダウンロードしたJSONファイルを指定するかドラッグアンドドロップしましょう。  
+
 ![](img/remap2.png)  
 下に並んでいるキーをキーボードにドラッグアンドドロップすると配置が変わります。  
 右上のflashボタンを押すとキーボードに反映されます。  
-![](img/remap3.png)
+![](img/remap3.png)  
 
 ## おまけ
 寸法の画像とダンボールで作れるペーパークラフトを用意したのでサイズ感の確認にご利用下さい。
