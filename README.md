@@ -155,18 +155,21 @@ Mac用のサンプルファームウェア shotgun_mac.hex
 ## 液晶タブレットに乗せる場合
 ## BLE Micro Pro, 電池基板、LPME-IO2a対応について
 ## Pro Micro Web Updaterを使う場合
-ファームウェアをダウンロードしてwebサイトにアクセスしてください。
+ファームウェアをダウンロードしてwebサイトにアクセスしてください。  
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
-ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。
+ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
 ![](img/promicrowebupdater1.jpg)  
-ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。  
+
+ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。    
 するとArduino Microが出てきてクリックできるようになります。
 ![](img/promicrowebupdater2.jpg)  
-選択して接続を押すと書き込みが終わります。
+
+選択して接続を押すと書き込みが終わります。  
 ![](img/promicrowebupdater3.jpg)  
-反対側も同じファームウェアを書き込みます。
+  
+反対側も同じファームウェアを書き込みます。  
 
 [動作確認に戻る](#anchor1)  
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
