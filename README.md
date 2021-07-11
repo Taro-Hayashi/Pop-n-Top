@@ -58,7 +58,7 @@
 
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 ## 組み立て方（はんだ付け）
-作るのは両方同時でも片方同時でもお好きな方で構いません。
+作るのは両方同時でも片方ずつでもお好みで構いません。
 
 ダイオードの足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
@@ -96,10 +96,11 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 電気的な部分が完成したのでPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつないでください。  
 USBからでないと書き込めないので分割キーボードでは左側と右側に同じ手順を繰り返します。  
-- Chrome, Edgeが使える場合Pro Micro Web Updaterの方が手順が少ないです。  
-　[Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)
 
-QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
+Chrome, Edgeを使っているならPro Micro Web Updaterの方が手順が少ないです。  
+[Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
+
+使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 
