@@ -160,15 +160,17 @@ Mac用のサンプルファームウェア shotgun_mac.hex
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
+
 ![](img/promicrowebupdater1.jpg)  
 
 ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。    
-するとArduino Microが出てきてクリックできるようになります。
-![](img/promicrowebupdater2.jpg)  
+するとArduino Microが出てきてクリックできるようになります。  
 
+![](img/promicrowebupdater2.jpg)  
+  
 選択して接続を押すと書き込みが終わります。  
 ![](img/promicrowebupdater3.jpg)  
-  
+
 反対側も同じファームウェアを書き込みます。  
 
 [動作確認に戻る](#anchor1)  
