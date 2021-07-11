@@ -165,9 +165,12 @@ Chrome, Edgeがインストールされていれば、Remapを使うとソフト
 - VIA [https://github.com/the-via/releases/releases/tag/v1.3.1](https://github.com/the-via/releases/releases)
 - popntop.json
 
-![](img/via1.png)
-![](img/via2.png)
-![](img/via3.png)
+起動したらSETTINGタブに移りShow Design tabをオンにします。  
+![](img/via1.png)  
+DESIGNタブが出てくるのでクリックしてLOADボタンを押してダウンロードしたJSONファイルを指定しましょう。  
+CONFIGUREタブに行くとキーマップを設定できるようになっています。  
+![](img/via3.png)  
+キーボードのシルエットの変更したいキーをクリックしてから打ちたい文字をクリックすると即座にキーマップがかわります。  
 
 ## キースイッチの選び方
 
