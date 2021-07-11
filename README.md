@@ -1,5 +1,6 @@
 # Pop'n Top キーボード ビルドガイド
 しおり  
+- [キット内容](#キット内容)
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
 - [動作テスト](#動作テスト)
 - [組み立て方（後半）](#組み立て方後半)
@@ -96,7 +97,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 USBからでないと書き込めないので分割キーボードでは左側と右側に同じ手順を繰り返します。  
 
 Chrome, Edgeを使っているならPro Micro Web Updaterの方が手順が少ないです。  
-[Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
+[- Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
 
 使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
@@ -108,7 +109,7 @@ MCUがatmega32u4になっていることも確認してください。
 
 キットのリセットスイッチを押すとPro Microが赤く光り自動でファームウェアが書き込まれます。  
 正常に書き込まれた場合"Thank you"のメッセージが出ます。  
-![](img/qmktoolbox2.png)
+![](img/qmktoolbox2.png)　　
 ファームウェアを更新する時もこの手順で行います。  
 
 <a id="anchor1"></a>
@@ -118,7 +119,8 @@ MCUがatmega32u4になっていることも確認してください。
 反対側にも同じファームウェアを書き込みます。
 
 書き込めたら一度USBケーブルを外し、TRRSケーブルで左右を繋げます。  
-左側とPCをUSBケーブルで接続しタイプすると1-50の数字が打てるはずです。  
+（TRRSケーブルを抜き差しするときはPCとは接続しない方が安全だそうです。）  
+左側とPCをUSBケーブルで接続してタイプすると1-50の数字が打てるはずです。  
 反応しないキーが一箇所の場合スイッチ、同じ行で複数個の場合ダイオードのはんだが原因だと思います。   
 
 お疲れ様でした。問題がなければはんだ付けは終了です。
@@ -157,12 +159,13 @@ WindowsとMacの両方である程度キーを網羅するために必要以上�
 私はレイヤーは使わないので消してしまっています。
 
 Chrome, Edgeがインストールされていれば、Remapを使うとソフトウェアをインストールせずに変更できます。
-[Remapを使う場合](#キーマップの変更にRemapを使う場合)  
+[▼Remapを使う場合](#キーマップの変更にRemapを使う場合)  
 
 そうでない場合はVIAをインストールして、下記JSONファイルをダウンロードしてください。
-- VIA [https://github.com/the-via/releases/releases/tag/v1.3.1](https://github.com/the-via/releases/releases/tag/v1.3.1)
+- VIA [https://github.com/the-via/releases/releases/tag/v1.3.1](https://github.com/the-via/releases/releases)
 - popntop.json
 
+x
 
 
 ## キースイッチの選び方
