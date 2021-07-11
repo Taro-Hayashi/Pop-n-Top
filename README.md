@@ -27,7 +27,7 @@
 
 ## キット以外に必要なもの
 |部品名|数| |
-|:-|:-|:-|
+|-|-|-|
 |Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
 |キーキャップ（CherryMX互換）|50|[選び方](#キーキャップの選び方)|
@@ -36,7 +36,7 @@
 
 ## 必要な工具
 |工具名| |
-|:-|:-|
+|-|-|
 |はんだごて||
 |はんだごて置き場||
 |鉛入りはんだ||
@@ -44,7 +44,7 @@
 
 ## あると便利な工具
 |工具名| |
-|:-|:-|
+|-|-|
 |斜めに切ったタイプのこて先||
 |温度調節可能なはんだごて|300度-350度前後|
 |ピンセット|LEDには必須|
@@ -140,37 +140,53 @@ USBケーブルを抜いてプレートを組付けます。
 Pro Microを覆うようにネジ（長）で止めます。  
 ![](img/sample.jpg)   
 
-キーキャップを取り付けてファームウェアを更新します。  
-Windows用のサンプルファームウェア shotgun_windows.hex
-Mac用のサンプルファームウェア shotgun_mac.hex
+キーキャップを取り付けてファームウェアを更新しましょう。
+|OS|USB||
+|-|-|-|
+|Windows|左出し|popntop_winl.hex|
+|Windows|右出し|popntop_winr.hex|
+|Mac|左出し|popntop_macl.hex|
+|Mac|右出し|popntop_macr.hex|
 
-ゴム足を貼って完成です。
+ゴム足を貼ったら完成です。
 
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 ## キーマップの確認、変更方法
+
 ## キースイッチの選び方
+
 ## キーキャップの選び方
+
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 ## LEDの取り付け方
+
 ## 液晶タブレットに乗せる場合
+
 ## BLE Micro Pro, 電池基板、LPME-IO2a対応について
-## Pro Micro Web Updaterを使う場合
+配線、スペース的には対応していると思います。　　
+I2Cを使う場合TRRSジャック付近のジャンパー二つを短絡してD2ピンは無効にしてください。　
+
+## ファームウェアの書き込みにPro Micro Web Updaterを使う場合
 ファームウェアをダウンロードしてwebサイトにアクセスしてください。  
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
 ![](img/promicrowebupdater1.jpg)  
-ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。    
+
+ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
 するとArduino Microが出てきてクリックできるようになります。  
 ![](img/promicrowebupdater2.jpg)  
-選択して接続を押すと書き込みが終わります。
+
+選択して接続を押すと書き込みが終わります。  
 ![](img/promicrowebupdater3.jpg)  
 
 反対側も同じファームウェアを書き込みます。  
 
 [動作確認に戻る](#anchor1)  
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
+
+## キーマップの変更にRemapを使う場合
 
 ## おまけ
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
