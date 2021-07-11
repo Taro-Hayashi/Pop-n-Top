@@ -111,12 +111,12 @@ MCUがatmega32u4になっていることも確認してください。
 ![](img/qmktoolbox2.png)
 ファームウェアを更新する時もこの手順で行います。  
 
+<a id="anchor1"></a>
 エラーが出る場合Auto-Flashのチェックを外し、リセットスイッチを押した後にQMK ToolboxのFlashのボタンを押してください。  
 赤く光らない場合リセットボタンのはんだ付けか、テスターがある場合スイッチを押した時に導通するか確認してください。  
 
 反対側にも同じファームウェアを書き込みます。
 
-<a id="anchor1"></a>
 
 書き込めたら一度USBケーブルを外し、ミニプラグケーブルで左右を繋げます。
 左側とPCをUSBケーブルで接続しキーを打つと1-50の数字が打てるはずです。
@@ -160,15 +160,14 @@ Mac用のサンプルファームウェア shotgun_mac.hex
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
-
+---
 ![](img/promicrowebupdater1.jpg)  
-
 ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。    
 するとArduino Microが出てきてクリックできるようになります。  
-
+---
 ![](img/promicrowebupdater2.jpg)  
-  
-選択して接続を押すと書き込みが終わります。  
+選択して接続を押すと書き込みが終わります。
+---  
 ![](img/promicrowebupdater3.jpg)  
 
 反対側も同じファームウェアを書き込みます。  
