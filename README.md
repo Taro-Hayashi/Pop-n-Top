@@ -58,8 +58,6 @@
 
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 ## 組み立て方（はんだ付け）
-作るのは両方同時でも片方ずつでもお好みで構いません。
-
 ダイオードの足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 ![向きに注意](img/sample.jpg)  
@@ -89,7 +87,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 そして、Pro Micro側のコンスルーの足を半田付けします。  
 ![四隅を先に固定すると安定します。](img/sample.jpg)   
 これでPro Microを抜き差しできるようになりました。  
-
+両手分作り終えたら次に進んでください。
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 
 ## 動作テスト
@@ -161,10 +159,15 @@ Mac用のサンプルファームウェア shotgun_mac.hex
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
+ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。
+![](img/promicrowebupdater1.jpg)  
+ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。  
+するとArduino Microが出てきてクリックできるようになります。
+![](img/promicrowebupdater2.jpg)  
+選択して接続を押すと書き込みが終わります。
+![](img/promicrowebupdater3.jpg)  
+反対側も同じファームウェアを書き込みます。
 
-全てのキーが反応することを確認しましょう。  
-反応しないキーが一箇所の場合スイッチ、同じ行で複数個の場合ダイオードのはんだが原因だと思います。  
-お疲れ様でした。問題がなくなればはんだ付けは終了です。
 [動作確認に戻る](#anchor1)  
 [▲トップに戻る](#Popn-Top-キーボード-ビルドガイド)
 
