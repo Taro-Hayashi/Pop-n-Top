@@ -1,5 +1,4 @@
 ## ファームウェアの書き込みにPro Micro Web Updaterを使う場合
-ファームウェアをダウンロードしてwebサイトにアクセスしてください。  
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c08742267614e7d3a6a4/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
@@ -7,7 +6,7 @@
 ![](img/promicrowebupdater1.jpg)  
 
 ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
-するとArduino Microが出てきてクリックできるようになります。  
+すると選択欄にArduino Microが出てきてクリックできるようになります。  
 ![](img/promicrowebupdater2.jpg)  
 
 選択して接続を押すと書き込みが終わります。  
