@@ -6,7 +6,7 @@ CherryMX互換のキーキャップを購入してください。
 SAのように深いキーキャップだと表に出たコンスルーやダイオードのリードの足が当たるかもしれません。
 ![](img/sample.jpg)  
 手持ちで一番深かったRAZERのキーキャップはギリギリでした。  
-足を切ってPro Microをはんだ付けしたり表面実装のダイオードを使用すれば大丈夫だと思います。
+Pro Microを足を切ってはんだ付けしたり表面実装のダイオードを使用すれば大丈夫だと思います。
 
 キーキャップの長さにも種類があります。  
 ![](img/keycapu.png)
@@ -22,10 +22,10 @@ Uというのは正方形を1とした時の横幅です。
 打つ文字は自由に変更できますし、長いキーには短いキーキャップをはめることもできます。  
 特に親指や人差し指で押すキーは使い方やキーキャップに合わせて変えるといいと思います。  
 気に入った見た目のキーキャップセットと、足りない長さをバラで買うのはいかがでしょうか。  
-https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008  
+[TalpKeyboard様販売ページ](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008  
 https://shop.yushakobo.jp/collections/keycaps-1/products/dsa-blank-keycaps  
 
-高めですがデザインが良く他のキットにも使いやすいキーキャップがたくさん入っているキーキャップセットです。  
+高めですがデザインが良く他のキットにも使いやすいキーキャップがたくさん入っているセットです。  
 NP PBT Crayon KEYCAPS SET https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-crayon-keycaps-set  
 
 文字なしですが安くて一通り入っています。  
