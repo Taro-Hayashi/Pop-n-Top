@@ -28,7 +28,7 @@
 |-|-|-|
 |Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
-|キーキャップ（CherryMX互換）|50|[選び方](misc.md#キーキャップの選び方)|
+|キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md|
 |TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。|
 |Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
 
@@ -94,7 +94,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 キットの左手用とPCをUSBケーブルでつないでください。   
 
 Chrome, Edgeを使っているならPro Micro Web Updaterだとブラウザだけでできます。  
-[▼Pro Micro Web Updaterを使う場合](#Pro-Micro-Web-Updaterを使う場合)  
+[Pro Micro Web Updaterを使う場合](promicrowebupdater.md)  
 
 使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
@@ -156,7 +156,7 @@ WindowsとMacの両方である程度キーを網羅するために必要以上�
 使わないキーやキーパッドに任せるキーは削除したり使用頻度の高いキーに入れ替えてしまいましょう。  
 
 Chrome, EdgeがインストールされていればRemapを使うとブラウザだけで変更できます。  
-[▼Remapを使う場合](#キーマップの変更にRemapを使う場合)  
+[Remapを使う場合](remap.md)  
 
 そうでない場合はVIAをインストールして、下記JSONファイルをダウンロードしてください。
 - VIA [https://github.com/the-via/releases/releases](https://github.com/the-via/releases/releases)
