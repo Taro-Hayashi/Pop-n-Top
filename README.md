@@ -229,5 +229,5 @@ shotgun_p.pdf
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
-https://github.com/foostan/kbd/
+https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE
