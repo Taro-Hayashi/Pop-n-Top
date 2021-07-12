@@ -28,7 +28,7 @@
 |-|-|-|
 |Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
 |キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
-|キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md|
+|キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md)|
 |TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。|
 |Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
 
