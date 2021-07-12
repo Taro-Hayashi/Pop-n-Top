@@ -30,6 +30,6 @@ NP PBT Crayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakob
 
 文字なしですが安くて一通り入っています。  
 NP PBT ブランクキーキャップセット [TalpKeyboard様販売ページ](https://talpkeyboard.net/items/6027a2686e84d5793d776135)  
-NP PBT BlankCrayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-blank-keycaps-set-124-keys)  
+NP PBT Blank KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-blank-keycaps-set-124-keys)  
 
 ブラウザの戻るで戻ってください
