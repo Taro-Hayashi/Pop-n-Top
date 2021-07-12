@@ -185,7 +185,7 @@ Micro-USBケーブルは充電専用ケーブルでないか気を付けてく�
 |部品名|数|||
 |-|-|-|-|
  |SK6812MINI-E|50|バックライト|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
- |WS2812B|9|アンダーグロウ。こちらは無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+ |WS2812B|9|アンダーグロウ。無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
 
 LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付けしましょう。  
 ![](img/sample.jpg)  
