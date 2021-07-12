@@ -22,14 +22,14 @@ Uというのは正方形を1とした時の横幅です。
 打つ文字は自由に変更できますし、長いキーには短いキーキャップをはめることもできます。  
 特に親指や人差し指で押すキーは使い方やキーキャップに合わせて変えるといいと思います。  
 気に入った見た目のキーキャップセットと、足りない長さをバラで買うのはいかがでしょうか。  
-[TalpKeyboard様販売ページ](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008  
-https://shop.yushakobo.jp/collections/keycaps-1/products/dsa-blank-keycaps  
+[TalpKeyboard様販売ページ](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)  
+[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/dsa-blank-keycaps)  
 
 高めですがデザインが良く他のキットにも使いやすいキーキャップがたくさん入っているセットです。  
-NP PBT Crayon KEYCAPS SET https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-crayon-keycaps-set  
+NP PBT Crayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-crayon-keycaps-set)  
 
 文字なしですが安くて一通り入っています。  
-NP PBT ブランクキーキャップセット https://talpkeyboard.net/items/6027a2686e84d5793d776135  
-NP PBT BlankCrayon KEYCAPS SET https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-blank-keycaps-set-124-keys  
+NP PBT ブランクキーキャップセット [TalpKeyboard様販売ページ](https://talpkeyboard.net/items/6027a2686e84d5793d776135)  
+NP PBT BlankCrayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-blank-keycaps-set-124-keys)  
 
 ブラウザの戻るで戻ってください
