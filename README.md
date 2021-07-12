@@ -10,7 +10,7 @@
 ![パーツ一覧](img/sample.jpg)  
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード（黒・大）|2|短い方が左です。裏に記載があります。|
+|1|メインボード（黒・大）|2|少し短い方が左です。裏に記載があります。|
 |2|ミドルプレート（透明・中）|2||
 |3|ボトムプレート（黒・中）|2||
 |4|ボトムプレート（透明・小）|2||
@@ -26,8 +26,8 @@
 ## キット以外に必要なもの
 |部品名|数| |
 |-|-|-|
-|Pro Micro コンスルー付き|2|https://shop.yushakobo.jp/products/promicro-spring-pinheader|
-|キースイッチ（Kailh Choc V2）|50|https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2|
+|Pro Micro コンスルー付き|2|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
+|キースイッチ（Kailh Choc V2）|50|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md)|
 |TRRSケーブル|1|TRS（イヤホンのステレオミニ）ケーブルでもいいです。|
 |Micro USB ケーブル|1|USB2.0 Micro-Bのもの。|
