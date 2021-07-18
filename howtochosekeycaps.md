@@ -18,7 +18,7 @@ Uというのは正方形を1とした時の横幅です。
 [TalpKeyboard様販売ページ](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)  
 [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/dsa-blank-keycaps)  
 
-こちらは高めですがデザインが良く他のキットにも使いやすいキーキャップがたくさん入っているセットです。  
+こちらは高めですが他のキットにも使いやすいキーキャップがたくさん入っているセットです。  
 NP PBT Crayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-crayon-keycaps-set)  
 
 ブラウザの戻るで戻ってください
