@@ -187,16 +187,16 @@ CONFIGUREタブに行くとキーマップを設定できるようになって�
 寸法とダンボールで作れるペーパークラフトを用意したのでサイズ感の確認にご利用下さい。
 定規があればプリントしなくても作れます。
 ![](img/sample.jpg)　　
-shotgun_p.pdf
-ネットプリント
-
-ボトムプレートのデザインデータ kicadプロジェクトファイル svg dfx
-アクリルプレートのデザインデータ kicadプロジェクトファイル svg dfx
-発注先のルールに沿ってデータを修正してください。
-マット素材のアクリルはLEDの光が拡散し柔らかい印象になります。
-
-ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。
-
+shotgun_p.pdf  
+ネットプリント  
+  
+ボトムプレートのデザインデータ kicadプロジェクトファイル  
+アクリルプレートのデザインデータ kicadプロジェクトファイル  
+発注先のルールに沿ってデータを修正してください。  
+マット素材のアクリルはLEDの光が拡散し柔らかい印象になります。  
+  
+ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
+  
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
-https://github.com/foostan/kbd/blob/master/LICENSE
+https://github.com/foostan/kbd/blob/master/LICENSE  
