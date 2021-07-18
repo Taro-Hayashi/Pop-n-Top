@@ -25,7 +25,7 @@
 
 ## キット以外に必要なもの
 |部品名|数|| |
-|-|-|-|
+|-|-|-|-|
 |Pro Micro コンスルー付き|2||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ（Kailh Choc V2）|50|[選び方](howtochosekeyswitch.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md)||
