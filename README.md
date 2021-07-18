@@ -147,7 +147,7 @@ Pro Microを覆うようにネジ（長）で止めます。
 ![](img/bottom4.jpeg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [popntop_default.hex]()v
+- [popntop_via.hex]()
 
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。
 ![](img/done.jpeg)  
