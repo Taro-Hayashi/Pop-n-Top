@@ -30,7 +30,7 @@
 |キースイッチ（Kailh Choc V2）|50|[選び方](howtochosekeyswitch.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ（CherryMX互換）|50|[選び方](howtochosekeycaps.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1)|
 |TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。||
-|Micro USB ケーブル|1|USB2.0 Micro-Bのもの。||
+|Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。||
 
 ## オプション
 |部品名|数|||
