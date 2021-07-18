@@ -35,8 +35,9 @@
 ## オプション
 |部品名|数|||
 |-|-|-|-|
- |SK6812MINI-E|50|バックライト。[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
- |WS2812B|9|アンダーグロウ。無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+|表面実装タイプのダイオード|50||
+ |SK6812MINI-E|50|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+ |WS2812B|9|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
  
 ## 必要な工具
 |工具名| |
