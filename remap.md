@@ -1,6 +1,6 @@
 ## キーマップの変更にRemapを使う場合
 JSONファイルをダウンロードしてwebサイトにアクセスしてください。
-- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-77514246efba8c20ff93/popntop.json)
+- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop.json)
 - Remap https://remap-keys.app
 
 左の青いボタンを押して、次の画面では+KEYBOARDをクリックします。  
