@@ -178,11 +178,11 @@ CONFIGUREタブに行くとキーマップを設定できるようになって�
 
 なおデフォルトのものはWin/Mac共用のたたき台的なレイアウトです。  
 Win用、Mac用、Winの日本語配列設定で擬似的にUS配列を再現したものの3種のファームウェアも用意したのでよかったら参考にしてください。  
-- Windows用 Keyboard Layout Editor で見る
+- Windows用 Keyboard Layout Editor で見る  
 popntop_winus.hex
-- Mac用 Keyboard Layout Editor で見る
+- Mac用 Keyboard Layout Editor で見る  
 popntop_mac.hex
-- 擬似US配列 Keyboard Layout Editor で見る
+- 擬似US配列 Keyboard Layout Editor で見る  
 popntop_winjpus
 
 ## 液晶タブレットに乗せる場合
