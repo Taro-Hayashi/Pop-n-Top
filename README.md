@@ -106,7 +106,7 @@ Chrome, Edgeを使っているならPro Micro Web Updaterだとブラウザだ�
 
 使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
-- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c5566590dcc45a6df28a/popntop_test.hex)
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
 
 Openを押してダウンロードしたファイルを指定してAuto-Flashにチェックを入れます。  
 MCUがatmega32u4になっていることも確認します。  
@@ -147,7 +147,7 @@ Pro Microを覆うようにネジ（長）で止めます。
 ![](img/bottom4.jpeg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c5566590dcc45a6df28a/popntop_via.hex)
+- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_via.hex)
 
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。
 ![](img/done.jpeg)  
@@ -166,7 +166,7 @@ Chrome, EdgeがインストールされていればRemapを使うとブラウザ
 
 そうでない場合はVIAをインストールして、下記JSONファイルをダウンロードしてください。
 - VIA [https://github.com/the-via/releases/releases](https://github.com/the-via/releases/releases)
-- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-c5566590dcc45a6df28a/popntop.json)
+- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop.json)
 
 起動したらSETTINGタブに移りShow Design tabをオンにします。  
 ![](img/via1.png)  
