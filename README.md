@@ -164,9 +164,11 @@ JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセ�
   
 ![](img/remap1.png)  
 左を選んで進んでいくとJSONファイルを求められるのでダウンロードしたものを指定します。  
-![](img/remap2.png)  
+![](img/remap2.png)   
+  
 変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
+  
 上手くいかなくなったときはいったんリセットすると直ることがあります。  
 ![](img/remap4.png)  
 　　
