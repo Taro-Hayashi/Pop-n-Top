@@ -38,7 +38,7 @@
 |表面実装タイプのダイオード|50||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
 |SK6812MINI-E|50|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
 |WS2812B|9|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
-|両面テープ||液タブに固定する場合。||
+|両面テープ||ねじの頭の0.5㎜より厚いものがおすすめです。||
  
 ## 必要な工具
 |工具名| |
@@ -174,10 +174,10 @@ popntop_mac.hex
 
 ## おまけ
 寸法とダンボールで作れるペーパークラフトを用意したのでサイズ感の確認にご利用下さい。
-定規があればプリントしなくても作れます。
-![](img/sample.jpg)　　
-shotgun_p.pdf  
-ネットプリント  
+![](img/danbo.jpg)　　
+![](img/size.png)　　
+- shotgun_p.pdf ネットプリント  
+  A4サイズです。定規があればプリントしなくても作れます。
   
 プレートのデザインデータ [popntop_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
