@@ -190,6 +190,8 @@ Mac用レイアウトのファームウェアも用意したのでよかった�
 - ネットプリント番号  日まで　　
 
 A4サイズです。定規があればプリントしなくても作れます。
+
+ファームウェアのフォルダ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
   
 ミドル、ボトムプレートのデザインデータ [popntop_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
