@@ -176,7 +176,7 @@ popntop_mac.hex
 寸法とダンボールで作れるペーパークラフトを用意したのでサイズ感の確認にご利用下さい。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
-- [shotgun_p.pdf]()  
+- [realsizeA4.pdf]()  
  [ネットプリント]()  
   A4サイズです。定規があればプリントしなくても作れます。
   
