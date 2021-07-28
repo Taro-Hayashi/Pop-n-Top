@@ -103,7 +103,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 左手用とPCをUSBケーブルでつないでください。   
 
-ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
+ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
