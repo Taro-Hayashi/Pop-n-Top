@@ -35,9 +35,9 @@
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|表面実装タイプのダイオード|50||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
 |SK6812MINI-E|50|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
 |WS2812B|9|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+|1N4148W|50|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
 |両面テープ||ねじの頭の0.5㎜より厚いものがおすすめです。||
  
 ## 必要な工具
@@ -67,6 +67,10 @@
 |ラジオペンチ||
 
 ## 組み立て方（はんだ付け）
+はんだ付けのやり方は動画で見るとわかりやすいです。  
+パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
+ - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
+
 ダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
 足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
@@ -103,7 +107,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 左手用とPCをUSBケーブルでつないでください。   
 
-ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
+ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。
 - テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
@@ -196,6 +200,7 @@ A4サイズです。定規があればプリントしなくても作れます。
   
 ミドル、ボトムプレートのデザインデータ [popntop_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
+マット加工されたアクリルでプレートを作ると光が拡散して柔らかい印象になります。
   
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
   
