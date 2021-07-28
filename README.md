@@ -69,8 +69,7 @@
 ## 組み立て方（はんだ付け）
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～) 
-https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
+ - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
 
 ダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
 足を曲げて裏から差し込みます。  
@@ -197,9 +196,11 @@ Mac用レイアウトのファームウェアも用意したのでよかった�
 
 A4サイズです。定規があればプリントしなくても作れます。
 
-ファームウェアのフォルダ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
+ファームウェアのフォルダ  
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
   
-ミドル、ボトムプレートのデザインデータ [popntop_plates.zip]()  
+ミドル、ボトムプレートのデザインデータ  
+[popntop_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
 マット加工されたアクリルでLEDを付けると光が拡散して柔らかい印象になります。 
 ![](img/mat.jpg)　
