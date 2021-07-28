@@ -68,7 +68,7 @@
 
 ## 組み立て方（はんだ付け）
 はんだ付けのやり方は動画で見るとわかりやすいと思います。  
-これはホームセンターのDCMさんの動画です。 https://www.youtube.com/watch?v=JFQg_ObITYE
+ - ホームセンターのDCMさんの解説動画 https://www.youtube.com/watch?v=JFQg_ObITYE
 
 ダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
 足を曲げて裏から差し込みます。  
