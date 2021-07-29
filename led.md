@@ -16,7 +16,7 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 先にLEDを取り付ける予定の人ははんだ吸い取り線等を用意してください。
 
 LEDテスト用のファームウェアです。  
-[ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/ledtest_default.hex)
+[ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/ledtest_default.hex)  
 ※前述の理由からテストはTRRSケーブルを接続していない状態で片手ずつしてください。  
   
 LEDは直列に配線されています。  
