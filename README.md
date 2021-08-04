@@ -110,7 +110,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 左手用とPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -146,7 +146,7 @@ USBケーブル、TRRSケーブルを抜いてプレートを組付けます。
 ![](img/bottom3.jpg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_via.hex)
+- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_via.hex)
 
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。
 ![](img/done.jpeg)  
@@ -161,7 +161,7 @@ USBケーブルは左手用に接続してください。
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
 JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
-- [popntop.json]()
+- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop.json)
 - [Remap](https://remap-keys.app/)
   
 ![](img/remap1.png)  
@@ -176,7 +176,7 @@ JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセ�
   
 Mac用レイアウトのファームウェアも用意したのでよかったら手間を省くのに使ってください。  
 - Mac用 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_backcolor=#ffffff&name=Layout%20-%20Pop'n%20Top%20KEYBOARD%20Mac&author=T.Hayashi;&@_c=#777777&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#cf7e7e;&=!&=/@&=#&=$&=%25&_st=PG151101D05//D43;&=~&_x:3&c=#cccccc;&=&_c=#cf7e7e;&=F1&=F2&=F3&=F4&=F5&=F6&_c=#cccccc;&=&_c=#aaaaaa&w:2;&=;&@_x:0.75&w:1.75;&=&_c=#cf7e7e;&=%5E&=/&&=*&_n:true;&=(&=)&_c=#aaaaaa&w:1.5;&=&_x:2&w:1.5;&=&_c=#cf7e7e;&=F7&_n:true;&=F8&=F9&=F10&=F11&=F12&_c=#d99393&w:2;&=%E2%86%91;&@_x:0.5&c=#aaaaaa&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#cf7e7e;&=&_c=#aaaaaa;&=&_x:1;&=&=&_c=#cccccc;&=&=&=&=&=&_c=#d99393;&=%E2%86%90&_w:1.75;&=%E2%86%93&_fa@:2;;&=%E2%86%92;&@_y:-0.25&x:8.75&c=#cccccc&t=#c91818&a:5&f:3&w:2.5&d:true;&=%E2%86%91%0AUPPER%20LAYER;&@_y:-0.25&c=#777777&t=#000000%0A#dbbc1f&f2:2;&=esc%0A%E9%95%B7%E6%8A%BC%E3%81%97RGB&_c=#aaaaaa&t=#000000&a:7&w:1.5;&=tab&_c=#cccccc;&=Q&=W&=E&=R&=T&_a:5&f:3;&=/_%0A%0A%0A%0A%0A%0A-&_x:3&f:3;&=+%0A%0A%0A%0A%0A%0A/=&_a:7;&=Y&=U&=I&=O&=P&_a:5&f:3;&=%7B%0A%0A%0A%0A%0A%0A%5B&_f:3;&=%7D%0A%0A%0A%0A%0A%0A%5D&_c=#aaaaaa&a:7&w:2;&=delete;&@_x:0.75&w:1.75;&=command&_c=#cccccc;&=A&=S&=D&_n:true;&=F&=G&_c=#aaaaaa&w:1.5;&=space&_x:2&w:1.5;&=space&_c=#cccccc;&=H&_n:true;&=J&=K&=L&_a:5&f:3;&=/:%0A%0A%0A%0A%0A%0A/;&_f:3;&=%22%0A%0A%0A%0A%0A%0A'&_c=#aaaaaa&a:7&w:2;&=return;&@_x:0.5&w:2;&=shift&_c=#cccccc;&=Z&=X&=C&=V&=B&_c=#aaaaaa&t=#c91818%0A#000000&a:5&fa@:2;;&=%E9%95%B7%E6%8A%BC%E3%81%97UPPER%0A%E8%8B%B1%E6%95%B0&_t=#000000&fa@:2&:1;;&=space%0A%E9%95%B7%E6%8A%BC%E3%81%97%20option&_x:1;&=space%0A%E9%95%B7%E6%8A%BC%E3%81%97%20ctrl&_t=#000000%0A#152bab&fa@:2&:2;;&=%E3%81%8B%E3%81%AA%0A%E9%95%B7%E6%8A%BC%E3%81%97LOWER&_c=#cccccc&t=#000000&a:7;&=N&=M&_a:5&f:3;&=%3C%0A%0A%0A%0A%0A%0A,&_f:3;&=%3E%0A%0A%0A%0A%0A%0A.&_f:3;&=?%0A%0A%0A%0A%0A%0A//&_f:3;&=%7C%0A%0A%0A%0A%0A%0A%5C&_c=#aaaaaa&a:7&f:3&w:1.75;&=shift&_f:3;&=caps%20lock;&@_x:8.75&c=#cccccc&t=#152bab#1d2c8c%0A#152bab&a:5&f:3&w:2.5&d:true;&=LOWER%E3%80%80LAYER%0A%E2%86%93;&@_y:-0.5&c=#777777&t=#000000&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#8792d6&a:5&f:3;&=!%0A%0A%0A%0A%0A%0A1&_f:3;&=/@%0A%0A%0A%0A%0A%0A2&_f:3;&=#%0A%0A%0A%0A%0A%0A3&_f:3;&=$%0A%0A%0A%0A%0A%0A4&_f:3;&=%25%0A%0A%0A%0A%0A%0A5&_f:3;&=~%0A%0A%0A%0A%0A%0A%60&_x:3&c=#cccccc&a:7;&=&=&=&=&=&=&_c=#8792d6&f:3;&=(&_f:3;&=)&_c=#aaaaaa&w:2;&=;&@_x:0.75&w:1.75;&=&_c=#8792d6&a:5&f:3;&=%5E%0A%0A%0A%0A%0A%0A6&_f:3;&=/&%0A%0A%0A%0A%0A%0A7&_f:3;&=*%0A%0A%0A%0A%0A%0A8&_f:3&n:true;&=(%0A%0A%0A%0A%0A%0A9&_f:3;&=)%0A%0A%0A%0A%0A%0A0&_c=#aaaaaa&a:7&w:1.5;&=&_x:2&w:1.5;&=&_c=#8792d6&f:3;&=%E2%86%90&_f:3&n:true;&=%E2%86%93&_f:3;&=%E2%86%91&_f:3;&=%E2%86%92&_c=#cccccc;&=&=&_c=#aaaaaa&w:2;&=;&@_x:0.5&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#aaaaaa;&=&=&_x:1;&=&_c=#8792d6;&=&_c=#cccccc;&=&=&=&=&=&=&_c=#aaaaaa&f:3&w:1.75;&=shift&=;&@_y:0.75&c=#e0cb58;&=&_c=#aaaaaa&w:1.5;&=&_c=#e0cb58&f:3;&=%E8%89%B2%E7%9B%B8+&_f:3;&=%E5%BD%A9%E5%BA%A6+&_f:3;&=%E6%98%8E%E5%BA%A6+&_fa@:1;;&=%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89+&_c=#cccccc;&=&=&_x:0.25&t=#a18806&a:5&f:3&w:2.5&d:true;&=RGB%20LAYER&_x:0.25&t=#000000&a:7;&=&=&=&=&=&=&=&=&_c=#aaaaaa&w:2;&=;&@_x:1&c=#e0cb58&fa@:2;&w:1.5;&=%E5%89%8D%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&_c=#cccccc;&=&=&=&_n:true;&=&=&_c=#e0cb58&w:2;&=%E6%AC%A1%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&_x:1.5&c=#aaaaaa&w:1.5;&=&_c=#cccccc;&=&_n:true;&=&=&=&=&=&_c=#aaaaaa&w:2;&=;&@_x:0.5&w:2;&=&_c=#e0cb58&f:3;&=%E8%89%B2%E7%9B%B8-&_f:3;&=%E5%BD%A9%E5%BA%A6-&_f:3;&=%E6%98%8E%E5%BA%A6-&_fa@:1;;&=%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%20-&_c=#cccccc;&=&_c=[]#aaaaaa;&=&_c=#e0cb58&fa@:2;;&=ON//OFF&_x:1&c=#aaaaaa;&=&_c=#cccccc;&=&=&=&=&=&=&=&_c=#aaaaaa&w:1.75;&=&=)  
-[popntop_mac.hex]()  
+[popntop_mac.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_mac.hex)  
   
 ## 液晶タブレットに乗せる場合
 1番上の行を引っ掛ける事で液タブに乗せる事ができます。  
@@ -188,7 +188,7 @@ Mac用レイアウトのファームウェアも用意したのでよかった�
 寸法です。ダンボールで作れるペーパークラフトもあります。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
-- [realsizeA4.pdf]()  
+- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/realsizeA4.pdf)  
 - ネットプリント番号  日まで　　
 
 A4サイズです。定規があればプリントしなくても作れます。
@@ -197,7 +197,7 @@ A4サイズです。定規があればプリントしなくても作れます。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
   
 ミドル、ボトムプレートのデザインデータ  
-[popntop_plates.zip]()  
+[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
