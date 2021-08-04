@@ -17,7 +17,7 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 ![](img/led1_5.jpg)  
   
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/ledtest_default.hex)  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/ledtest_default.hex)  
 
 ※前述の理由からテストはTRRSケーブルを接続していない状態で片手ずつしてください。  
   
