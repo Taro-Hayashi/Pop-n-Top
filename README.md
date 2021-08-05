@@ -201,6 +201,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop
 発注先のルールに沿ってデータを修正してください。  
   
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
+販売ページ: https://tarohayashi.booth.pm/items/3154435
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
