@@ -162,7 +162,7 @@ USBケーブルは左手用に接続してください。
   
 JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
 - [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop.json)
-- [Remap](https://remap-keys.app/)
+- Remap https://remap-keys.app/  
   
 ![](img/remap1.png)  
 左を選んで進んでいくとJSONファイルを求められるのでダウンロードしたものを指定します。  
