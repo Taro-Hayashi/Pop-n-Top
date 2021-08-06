@@ -160,15 +160,13 @@ USBケーブルは左手用に接続してください。
   
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
-- [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop.json)
+  ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/  
   
 ![](img/remap1.png)  
-左を選んで進んでいくとJSONファイルを求められるのでダウンロードしたものを指定します。  
-![](img/remap2.png)   
-  
-変更が終わったら右上のflashボタンを押すと反映されます。  
+左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。
+
+キーの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
 上手くいかなくなったときはいったんリセットすると直ることがあります。  
@@ -195,6 +193,8 @@ A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
+  
+VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop.json)  
   
 ミドル、ボトムプレートのデザインデータ  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_plates.zip)  
