@@ -77,27 +77,27 @@
 足を曲げて裏から差し込みます。  
 ![](img/diode4.jpg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
-
+  
 表で更に足を曲げて抜けないようにします。  
-ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
+ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。  
 ![](img/diode5.jpg)  
-
+  
 はんだ付けをして足を切ります。  
 ![](img/diode6.jpg)  
-
-![](img/trrs1.jpg)  
+  
 TRRSジャックを裏から差し込み表ではんだ付けします。  
-終わったらリセットスイッチを裏から差し込み表ではんだ付けします。  
+![](img/trrs1.jpg)  
+終わったらリセットスイッチを裏から差し込み表ではんだ付けします。    
 ![](img/trrs2.jpg)  
-
+  
 キースイッチを表から差し込み裏ではんだ付けします。  
 ![](img/switch.jpg)  
-
+  
 メインボードの裏にコンスルーを挿します。  
 コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
 ![](img/conn1.jpg)   
 挿すだけではんだ付けはしません。  
-
+  
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
 ![](img/conn2.jpg)   
 そして、Pro Micro側のコンスルーの足を半田付けします。  
@@ -109,50 +109,49 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 左手用とPCをUSBケーブルでつないでください。   
 
-ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_test.hex)
-- Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
-
+ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。  
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_test.hex)  
+- Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html  
+  
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
 ![](img/promicrowebupdater1.jpg)  
-
-ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
+  
+ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。  
 すると選択欄にArduino Microが出てきてクリックできるようになります。  
 ![](img/promicrowebupdater2.jpg)  
-
+  
 選択して接続を押すと書き込みが終わります。  
 ![](img/promicrowebupdater3.jpg)  
 ファームウェアを更新する時もこの手順で行います。  
-
+  
 USBで接続しないと書き込めないので分割キーボードでは左手用と右手用に同じ手順を繰り返します。  
 右手用にも同じファームウェアを書き込んでください。  
-
+  
 書き込めたら一度USBケーブルを外し、TRRSケーブルで左右を繋げます。  
 （TRRSケーブルを抜き差しするときはPCとは接続しない方が安全だそうです。）  
 左手用とPCをUSBケーブルで接続してタイプすると1-50の数字が打てるはずです。     
-
-お疲れ様でした。問題がなければはんだ付けは終了です。
-
+  
+お疲れ様でした。問題がなければはんだ付けは終了です。  
+  
 ## 組み立て方（後半）
 USBケーブル、TRRSケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
-
-メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。
+  
+メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。  
 ![](img/bottom1.jpg)  
 ボトムプレート（黒・中）をネジ（短）で止めます。  
   
 メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
 ![](img/bottom3.jpg)   
-
-キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_via.hex)
-
-ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。
+  
+キーキャップを取り付けたら本番用のファームウェアに更新しましょう。  
+- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_via.hex)  
+  
+ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。  
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
 USBケーブルは左手用に接続してください。  
-
-
+  
 ## キーマップの確認、変更方法
 このキットはレイヤー機能を使っています。  
 ![](img/layout.png)
