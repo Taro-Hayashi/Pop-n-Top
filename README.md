@@ -75,33 +75,33 @@
   
 それではダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
 足を曲げて裏から差し込みます。  
+![](img/diode4.jpeg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
-![向きに注意](img/diode1.jpeg)  
 
 表で更に足を曲げて抜けないようにします。  
 ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
-![足を曲げてはんだ付け](img/diode2.jpeg)  
+![](img/diode5.jpeg)  
 
 はんだ付けをして足を切ります。  
-マスキングテープでダイオードを固定して足を先に切ると綺麗に仕上がります。  
-表面実装型を使うと表からは穴しか見えなくなります。  
-![実装方法による差](img/diode3.jpeg)  
+![](img/diode6.jpeg)  
 
+![](img/trrs1.jpeg)  
 TRRSジャックを裏から差し込み表ではんだ付けします。  
 終わったらリセットスイッチを裏から差し込み表ではんだ付けします。  
-![左：TRRSジャック 右:リセットスイッチ](img/trrset.jpg)  
+![](img/trrs2.jpg)  
 
 キースイッチを表から差し込み裏ではんだ付けします。  
-![穴が小さいので押し込む必要があります。](img/keyswitch.jpeg)  
+![](img/switch.jpg)  
 
 メインボードの裏にコンスルーを挿します。  
 コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
-![挿し方に注意](img/conn.jpeg)   
+![](img/conn1.jpg)   
 挿すだけではんだ付けはしません。  
 
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
+![](img/conn2.jpg)   
 そして、Pro Micro側のコンスルーの足を半田付けします。  
-![四隅を先に固定すると安定します。](img/promicro.jpeg)   
+![](img/conn3.jpg)   
 これでPro Microを抜き差しできるようになりました。  
 両手分作り終えたら次に進んでください。  
 
@@ -148,6 +148,7 @@ USBケーブル、TRRSケーブルを抜いてプレートを組付けます。
 - [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_via.hex)
 
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。
+![](img/rubber.jpg)  
 ![](img/done.jpeg)  
 USBケーブルは左手用に接続してください。  
 
