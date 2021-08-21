@@ -1,5 +1,6 @@
 ## キーキャップの選び方
-CherryMX互換のキーキャップを購入してください。
+スイッチに対応したのキーキャップを購入してください。
+choc V1は専用のキーキャップが販売されていて、choc V2はCherry MX互換のキーキャップが使えます。
 
 キーキャップの長さに種類があります。  
 ![](img/keycapu.png)
@@ -11,17 +12,6 @@ CherryMX互換のキーキャップを購入してください。
 |2U|3個|  
 
 Uというのは正方形を1とした時の横幅です。
-
-打つ文字は自由に変更できますし、長いキーには短いキーキャップをはめることもできます。  
-特に親指や人差し指で押すキーは使い方やキーキャップに合わせて変えるといいと思います。  
-気に入った見た目のキーキャップセットと、足りない長さをバラで買うのはいかがでしょうか。  
-[TalpKeyboard様販売ページ](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)  
-[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/dsa-blank-keycaps)  
-
-こちらは高めですが他のキットにも使いやすいキーキャップがたくさん入っているセットです。  
-NP PBT Crayon KEYCAPS SET [遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/keycaps-1/products/np-pbt-crayon-keycaps-set)  
-
-2Uにスタビライザーがないことを心配されるかもしれませんがchoc V2は軸に補助がついているためか私はあまり気になりませんでした。  
-無理でしたら1.75U以下のキーキャップを付けてください。
+choc V1を使う場合1.75Uのキーキャップは1.5U以下を使うか3Dプリンタで作ってください。
 
 ブラウザの戻るで戻ってください
