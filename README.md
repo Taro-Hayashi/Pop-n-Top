@@ -27,7 +27,7 @@
 |部品名|数|| |
 |-|-|-|-|
 |Pro Micro コンスルー付き|2||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ（Kailh Choc V1/V2）|50|||
+|キースイッチ|50|Kailh Choc V1 もしくは V2||
 |キーキャップ|50|[選び方](howtochosekeycaps.md)||
 |TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。||
 |Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。||
