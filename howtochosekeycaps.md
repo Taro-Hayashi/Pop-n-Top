@@ -18,7 +18,7 @@ choc V1を使う場合1.75Uのキーキャップは1.5U以下を使ってくだ�
 - NP PBT Crayon KEYCAPS SET（choc V2向け）  
 https://shop.yushakobo.jp/collections/keycaps/products/np-pbt-crayon-keycaps-set
 - NP PBT BLANK KEYCAP SET（choc V2向け）  
-https://talpkeyboard.net/items/6027a2686e84d5793d776135
+https://talpkeyboard.net/items/6027a2686e84d5793d776135  
 https://shop.yushakobo.jp/collections/keycaps/products/np-pbt-blank-keycaps-set-124-keys
 - MBK Legend‡ Glow（choc V1向け）  
 https://shop.yushakobo.jp/collections/keycaps/products/2609
