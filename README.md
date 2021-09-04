@@ -110,7 +110,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 左手用とPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてEdgeかChromeでPro Micro Web Updaterにアクセスしてください。  
-- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_test.hex)  
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.6/popntop_leftconnected_test.hex)  
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html  
   
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -145,7 +145,7 @@ USBケーブル、TRRSケーブルを抜いてプレートを組付けます。
 ![](img/bottom3.jpg)   
   
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。  
-- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_leftconnected_via.hex)  
+- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.6/popntop_leftconnected_via.hex)  
   
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。  
 ![](img/rubber.jpg)  
