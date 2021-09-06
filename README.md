@@ -192,8 +192,9 @@ VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-T
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
   
-ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
-販売ページ: https://tarohayashi.booth.pm/items/3154435
+ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
+BOOTH: https://tarohayashi.booth.pm/items/3154435  
+遊舎工房: Coming Soon
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
