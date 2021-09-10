@@ -194,7 +194,7 @@ VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-T
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 BOOTH: https://tarohayashi.booth.pm/items/3154435  
-遊舎工房: Coming Soon
+遊舎工房: https://shop.yushakobo.jp/products/2796
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
