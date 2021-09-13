@@ -186,7 +186,7 @@ A4サイズです。定規があればプリントしなくても作れます。
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
 
-VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
+VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
 ミドル、ボトムプレートのデザインデータ  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_plates.zip)  
