@@ -10,12 +10,12 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 青丸はキースイッチを固定するだけの穴なので回路上どことも接続しておらずはんだが繋がってしまっても大丈夫ですが、choc V2の場合穴が埋まってしまうとスイッチが入らなくなります。  
 先にLEDを取り付ける予定の人ははんだ吸い取り線等を用意してください。  
 ![](img/led1_5.jpg)  
-  
+
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.6/ledtest_default.hex)  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/ledtest_default.hex)  
 
 ※TRRSケーブルを接続していない状態で片手ずつテストしてください。  
-  
+
 LEDは直列に配線されています。  
 ![](img/led2.jpeg)  
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。   
@@ -26,5 +26,5 @@ ESC長押しでRGB操作用のレイヤーになります。
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
 
 ※分割キーボードでLEDの個数が多いためPro Microにかかる負荷が高いです。右手側の反応がなくなった場合、明度をさげてみてください。
-   
+
 ブラウザの機能で戻ってください。
