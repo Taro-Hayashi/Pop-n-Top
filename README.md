@@ -179,17 +179,17 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 寸法です。ダンボールで作れるペーパークラフトもあります。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/realsizeA4.pdf)  
+- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/realsizeA4.pdf)  
 
 A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
 
-VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop.json)  
+VIA用のJSONファイル [popntop.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
 ミドル、ボトムプレートのデザインデータ  
-[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/popntop_plates.zip)  
+[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
