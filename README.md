@@ -193,9 +193,10 @@ VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-H
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-BOOTH: https://tarohayashi.booth.pm/items/3154435  
-遊舎工房: https://shop.yushakobo.jp/products/2796
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
+
+遊舎工房: https://shop.yushakobo.jp/products/2796
+BOOTH: https://tarohayashi.booth.pm/items/3154435  
