@@ -37,7 +37,7 @@
 |SK6812MINI-E|50|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|9|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
-## 組み立て方（はんだ付け）
+## Soldering  
 This is What it looks like if you done. 
 ![](img/full2.jpg)
 
@@ -72,7 +72,7 @@ TRRSジャックを裏から差し込み表ではんだ付けします。
 これでPro Microを抜き差しできるようになりました。  
 両手分作り終えたら次に進んでください。  
 
-## 動作テスト
+## Testing
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 左手用とPCをUSBケーブルでつないでください。   
 
@@ -100,7 +100,7 @@ USBで接続しないと書き込めないので分割キーボードでは左�
 
 お疲れ様でした。問題がなければはんだ付けは終了です。  
 
-## 組み立て方（後半）
+## Assembling  
 USBケーブル、TRRSケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
 
@@ -119,8 +119,7 @@ USBケーブル、TRRSケーブルを抜いてプレートを組付けます。
 ![](img/done.jpeg)  
 USBケーブルは左手用に接続してください。  
 
-## キーマップの確認、変更方法
-このキットはレイヤー機能を使っています。  
+## Customize
 ![](img/layout.png)
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
 
