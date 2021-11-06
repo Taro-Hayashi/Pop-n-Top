@@ -63,9 +63,9 @@ Put conthroughs.
 Make the top and bottom and front and back the same.  
 ![](img/promicro1.jpg)    
 
-And put ProMicro on conthroughs.
+And put Pro Micro on conthroughs.
 ![](img/promicro2.jpg)   
-Solder ProMicro. 
+Solder Pro Micro. 
 ![](img/promicro4.jpg)   
 
 ## Testing
@@ -114,11 +114,10 @@ Access Remap.
 - Remap https://remap-keys.app/  
 
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。
+Select the blue button on the left to proceed.
 
-キーマップをドラッグアンドドロップで変更し右上のflashボタンを押すと反映されます。  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.
 ![](img/remap3.png)  
-
 
 Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
