@@ -95,18 +95,18 @@ Fasten the short spacer to the place circled in red on the back side with a shor
 And fit the middle plate.
 ![](img/bottom1.jpg)  
 
-Fasten the PCB bottom plate with short screws.
+Fasten the PCB bottom plate with short screws.  
 Attach the long spacer to the remaining screw holes with long screws, and secure the acrylic bottom plate with long screws.  
 ![](img/bottom3.jpg)   
-
-After installing the keycap, follow the same procedure as before to update the firmware for production.
+  
+After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 ![](img/remap06.jpg)  
 
-Attaching the rubber feet and connecting the left and right sides with the TRRS cable, it is complete.    
+Attaching the rubber feet and connecting the left and right sides with the TRRS cable, it is complete.  
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
-
+  
 Thank you for your time.  
 
 ## Customize
