@@ -130,7 +130,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop
 JSON for Remap/VIA  
 [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
-plates data  
+Plates data  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_plates.zip)  
 
 Used foostan's footprint.
