@@ -89,7 +89,8 @@ You can type numbers from 1 to 50.
 If there are no problems, soldering is finished.  
 
 ## Assembling  
-Disconnect the USB cable and the TRRS cable.
+Disconnect the USB cable and the TRRS cable.  
+  
 Fasten the short spacer to the place circled in red on the back side with a short screw.  
 And fit the middle plate.
 ![](img/bottom1.jpg)  
