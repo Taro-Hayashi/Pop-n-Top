@@ -56,7 +56,7 @@ Solder TRRS Jacks and Tactile Switches.
 If you want to remove the flux from the surface, now is the time.
 ![](img/trrs2.jpg)  
 
-キースイッチを表から差し込み裏ではんだ付けします。  
+Solder Switches. 
 ![](img/switch.jpg)  
 
 メインボードの裏にコンスルーを挿します。  
