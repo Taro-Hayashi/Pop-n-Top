@@ -107,6 +107,7 @@ Attaching the rubber feet and connecting the left and right sides with the TRRS 
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
   
+Plug the USB cable into the left side.  
 Thank you for your time.  
 
 ## Customize
