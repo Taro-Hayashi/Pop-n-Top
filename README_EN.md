@@ -25,17 +25,17 @@
 ## キット以外に必要なもの
 |Name|Quantities|| |
 |-|-|-|-|
-|Pro Micro (With Conthrough)|2||[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
-|Kailh Low Profile Switches V1/V2|50|||
-|Keycaps|50|42: 1U, 3: 1.5U, 2: 1.75U, 3: 2U||
-|TRRS cable|1|||
-|Micro-USB Cable|1|||
+|Pro Micro (With Conthrough)|2|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
+|Kailh Low Profile Switches V1/V2|50||
+|Keycaps|50|42: 1U, 3: 1.5U, 2: 1.75U, 3: 2U|
+|TRRS cable|1||
+|Micro-USB Cable|1||
 
 ## オプション
-|部品名|数|||
+|部品名|数||
 |-|-|-|-|
-|SK6812MINI-E|50|[How to install](led_.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
-|WS2812B|9||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
+|SK6812MINI-E|50|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|9|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## 必要な工具
 |工具名| |
