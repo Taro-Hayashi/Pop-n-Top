@@ -28,8 +28,8 @@
 |Pro Micro (With Conthrough)|2|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
 |Switches|50|Kailh Low Profile Switches V1/V2|
 |Keycaps|50|42: 1U, 3: 1.5U, 2: 1.75U, 3: 2U|
-|TRRS cable|1||
-|Micro-USB Cable|1||
+|TRRS cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/trrs_cable)|
+|Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
 ## Optional
 |Name|Quantities||
