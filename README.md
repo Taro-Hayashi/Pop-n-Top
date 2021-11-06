@@ -1,4 +1,4 @@
-# Pop'n Top キーボード ビルドガイド
+# Pop'n Top キーボード ビルドガイド（[English](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/README_EN.md)）
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
 - [動作テスト](#動作テスト)
