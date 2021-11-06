@@ -22,52 +22,24 @@
 |11|TRRS Jacks|2||
 |12|Rubber feet|12||
 
-## キット以外に必要なもの
+## Additional required
 |Name|Quantities|| 
 |-|-|-|
 |Pro Micro (With Conthrough)|2|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
-|Kailh Low Profile Switches V1/V2|50||
+|Switches|50|Kailh Low Profile Switches V1/V2|
 |Keycaps|50|42: 1U, 3: 1.5U, 2: 1.75U, 3: 2U|
 |TRRS cable|1||
 |Micro-USB Cable|1||
 
-## オプション
-|部品名|数||
+## Optional
+|Name|Quantities||
 |-|-|-|
 |SK6812MINI-E|50|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|9|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
-## 必要な工具
-|工具名| |
-|-|-|
-|はんだごて||
-|はんだごて置き場||
-|鉛入りはんだ||
-|細いドライバー|+の1番ドライバー。|
-|ニッパー等ダイオードの足を切れるもの||
-|Microsoft Edge、もしくはGoogle Chrome||
-
-## あると便利な工具
-|工具名||
-|-|-|
-|耐熱シリコンマット||
-|斜めに切ったタイプのこて先||
-|温度調節可能なはんだごて|300度-350度前後|
-|ピンセット|LEDには必須|
-|フラックス|LEDには必須|
-|テスター||
-|フラックスリムーバー||
-|マスキングテープ||
-|はんだ吸い取り線||
-
 ## 組み立て方（はんだ付け）
 正しくはんだ付けが終わるとこのようになります。  
 ![](img/full2.jpg)
-
-はんだ付けのやり方は動画で見るとわかりやすいです。  
-パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。
- - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
-
 
 それではダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
 足を曲げて裏から差し込みます。  
@@ -164,7 +136,6 @@ USBケーブルは左手用に接続してください。
 
 キーマップをドラッグアンドドロップで変更し右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
-RemapにはMac用のレイアウトも用意してありますのでよかったら手間を省くのに使ってください。
 
 
 Firmware  
