@@ -1,4 +1,4 @@
-# Pop'n Top キーボード ビルドガイド
+# Pop'n Top キーボード
 - [Contents](#Contents)
 - [Soldering](#Soldering)
 - [Testing](#Testing)
