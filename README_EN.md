@@ -119,6 +119,7 @@ Select the blue button on the left to proceed.
 After Drag-and-Drop the keys, press the flash button in the upper right corner.
 ![](img/remap3.png)  
 
+## Misc
 Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
 
