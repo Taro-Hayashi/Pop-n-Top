@@ -103,7 +103,8 @@ If there are no problems, soldering is finished.
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。  
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
-USBケーブルは左手用に接続してください。  
+
+Thank you for your time.  
 
 ## Customize
 ![](img/layout.png)
