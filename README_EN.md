@@ -59,17 +59,14 @@ If you want to remove the flux from the surface, now is the time.
 Solder Switches. 
 ![](img/switch.jpg)  
 
-メインボードの裏にコンスルーを挿します。  
-コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
-![](img/promicro1.jpg)   
-挿すだけではんだ付けはしません。  
+Put conthroughs.
+Make the top and bottom and front and back the same.  
+![](img/promicro1.jpg)    
 
-コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
+And put ProMicro on conthroughs.
 ![](img/promicro2.jpg)   
-そして、Pro Micro側のコンスルーの足を半田付けします。  
+Solder ProMicro. 
 ![](img/promicro4.jpg)   
-これでPro Microを抜き差しできるようになりました。  
-両手分作り終えたら次に進んでください。  
 
 ## Testing
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
