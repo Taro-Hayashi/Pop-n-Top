@@ -2,7 +2,7 @@
 - [Contents](#Contents)
 - [Soldering](#Soldering)
 - [Testing](#Testing)
-- [assembling](#assembling)
+- [Assembling](#Assembling)
 - [Customize](#Customize)
 
 ## Contents
