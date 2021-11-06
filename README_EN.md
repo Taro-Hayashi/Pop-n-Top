@@ -7,7 +7,7 @@
 
 ## Contents
 ![](img/set.jpg)  
-||Name|Quantities| |
+||Name|Quantity| |
 |-|-|-|-|
 |1|Main Board|2|Shorter is left side.|
 |2|Middle Plates|2||
@@ -25,17 +25,17 @@
 ## キット以外に必要なもの
 |Name|Quantities|| |
 |-|-|-|-|
-|Pro Micro コンスルー付き|2||[Yushakobo](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|50|Kailh Choc V1 もしくは V2||
-|キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3||
-|TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。||
-|Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。||
+|Pro Micro (With Conthrough)|2||[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
+|Kailh Low Profile Switches V1/V2|50|||
+|Keycaps|50|42 1U, 3 1.5U, 2 1.75U, 3 2U||
+|TRRS cable|1|||
+|Micro-USB Cable|1|||
 
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|SK6812MINI-E|50|[取り付け方](led_.md)|[Yushakobo](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|9||[Yushakobo](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+|SK6812MINI-E|50|[How to install](led_.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|9||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## 必要な工具
 |工具名| |
