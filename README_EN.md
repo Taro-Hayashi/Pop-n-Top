@@ -1,44 +1,41 @@
 # Pop'n Top キーボード ビルドガイド
-- [キット内容](#キット内容)
-- [組み立て方（はんだ付け）](#組み立て方はんだ付け)
-- [動作テスト](#動作テスト)
-- [組み立て方（後半）](#組み立て方後半)
-- [カスタマイズ](#キーマップの確認変更方法)
-- [おまけ](#おまけ)
+- [Contents](#Contents)
+- [Soldering](#Soldering)
+- [Testing](#Testing)
+- [assembling](#assembling)
+- [Customize](#Customize)
 
-## キット内容
+## Contents
 ![](img/set.jpg)  
-||部品名|数| |
+||Name|Quantities| |
 |-|-|-|-|
-|1|メインボード（黒・大）|2|少し短い方が左手用です。|
-|2|ミドルプレート（透明・中）|2||
-|3|ボトムプレート（黒・中）|2||
-|4|ボトムプレート（透明・小）|2||
-|5|ネジ（短）|36|3mm|
-|6|ネジ（長）|24|5mm|
-|7|スペーサー（短）|18|3mm|
-|8|スペーサー（長）|12|8mm|
-|9|ダイオード|50||
-|10|リセットスイッチ|2||
-|11|TRRSジャック|2||
-|12|ゴム足|12||
+|1|Main Board|2|Shorter is left side.|
+|2|Middle Plates|2||
+|3|PCB Bottom Plates|2||
+|4|Acrylic Bottom Plates|2||
+|5|Short screws|36|3 mm|
+|6|Long screws|24|5 mm|
+|7|Short Spacers|18|3 mm|
+|8|Long Spacers|12|8 mm|
+|9|Diodes|50||
+|10|Tactile Switches|2||
+|11|TRRS Jacks|2||
+|12|Rubber feet|12||
 
 ## キット以外に必要なもの
-|部品名|数|| |
+|Name|Quantities|| |
 |-|-|-|-|
-|Pro Micro コンスルー付き|2||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
+|Pro Micro コンスルー付き|2||[Yushakobo](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|50|Kailh Choc V1 もしくは V2||
-|キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3|[選び方](howtochosekeycaps.md)|
+|キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3||
 |TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。||
 |Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。||
 
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|SK6812MINI-E|50|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|9|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
-|1N4148W|50|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
-|両面テープ||ねじの頭の0.5㎜より厚いものがおすすめです。||
+|SK6812MINI-E|50|[取り付け方](led_.md)|[Yushakobo](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+|WS2812B|9||[Yushakobo](https://shop.yushakobo.jp/products/a0800ws-01-10)|
 
 ## 必要な工具
 |工具名| |
@@ -169,34 +166,19 @@ USBケーブルは左手用に接続してください。
 ![](img/remap3.png)  
 RemapにはMac用のレイアウトも用意してありますのでよかったら手間を省くのに使ってください。
 
-## 液晶タブレットに乗せる場合
-1番上の行を引っ掛ける事で液タブに乗せる事ができます。  
-![](img/tab.jpeg)  
-ゴム足を外して両面テープで固定すると安定します。  
-跡が残るといけないので画面には保護フィルムを貼ってください。  
 
-## おまけ
-寸法です。ダンボールで作れるペーパークラフトもあります。
-![](img/size.png)　　
-![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/realsizeA4.pdf)  
-
-A4サイズです。定規があればプリントしなくても作れます。
-
-ファームウェアのフォルダ  
+Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
 
-VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
+JSON for Remap/VIA  
+[popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
-ミドル、ボトムプレートのデザインデータ  
+plates data  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
 
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-
-foostan様のフットプリントを流用、改変して使わせていただきました。  
+Used foostan's footprint.
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
-- 遊舎工房: https://shop.yushakobo.jp/products/2796  
+- Yushakobo: https://shop.yushakobo.jp/products/2796  
 - BOOTH: https://tarohayashi.booth.pm/items/3154435  
