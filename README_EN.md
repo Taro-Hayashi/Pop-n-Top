@@ -1,4 +1,4 @@
-# Pop'n Top キーボード Build Manual [日本語](https://github.com/Taro-Hayashi/Pop-n-Top/edit/main/README.md)
+# Pop'n Top キーボード Build Manual [日本語](https://github.com/Taro-Hayashi/Pop-n-Top/main/README.md)
 - [Contents](#Contents)
 - [Soldering](#Soldering)
 - [Testing](#Testing)
