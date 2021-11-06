@@ -112,11 +112,11 @@ Thank you for your time.
   
 Access Remap. 
 - Remap https://remap-keys.app/  
-
+  
+Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
-Select the blue button on the left to proceed.
-
-After Drag-and-Drop the keys, press the flash button in the upper right corner.
+  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
 
 ## Misc
