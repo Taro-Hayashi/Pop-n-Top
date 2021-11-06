@@ -69,7 +69,7 @@ Solder ProMicro.
 ![](img/promicro4.jpg)   
 
 ## Testing
-Connect one of them to the PC with a USB cable.
+Connect one of them to the PC with a USB cable.  
 Access Remap's firmware page with Chrome or Edge.
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
@@ -83,9 +83,9 @@ Push the tactile switch.
 
 Do the same for the other side.
 
-Disconnect all USB cables, and use TRRS Cable to connect the left and right sides, then connect the left side with the USB cable.
-You can type numbers from 1 to 50.
-
+Disconnect all USB cables, and use TRRS Cable to connect the left and right sides, then connect the left side with the USB cable.  
+You can type numbers from 1 to 50.  
+  
 If there are no problems, soldering is finished.  
 
 ## Assembling  
