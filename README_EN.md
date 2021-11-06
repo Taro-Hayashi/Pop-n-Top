@@ -89,18 +89,19 @@ You can type numbers from 1 to 50.
 If there are no problems, soldering is finished.  
 
 ## Assembling  
-Fasten the short spacer to the place circled in red on the back side with a short screw. 
-Fit the acrylic middle plate.
+Fasten the short spacer to the place circled in red on the back side with a short screw.  
+And fit the middle plate.
 ![](img/bottom1.jpg)  
 
-メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
+Fasten the PCB bottom plate with short screws.
+Attach the long spacer to the remaining screw holes with long screws, and secure the acrylic bottom plate with long screws.  
 ![](img/bottom3.jpg)   
 
-キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+After installing the keycap, follow the same procedure as before to update the firmware for production.
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 ![](img/remap06.jpg)  
 
-ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。  
+Attaching the rubber feet and connecting the left and right sides with the TRRS cable, it is complete.    
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
 
