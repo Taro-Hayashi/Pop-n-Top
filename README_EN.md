@@ -69,13 +69,10 @@ Solder ProMicro.
 ![](img/promicro4.jpg)   
 
 ## Testing
-Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつないでください。   
-
-下のwebサイトにアクセスしてください。
+Access Remap with Chrome or Edge.
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
-テストファームウェアを選んでFLASHします。
+Flash the Test firmware.
 ![](img/remap02.jpg)  
 ![](img/remap03.jpg)  
 
