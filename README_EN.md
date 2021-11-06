@@ -51,10 +51,9 @@ Bend the legs parallel to the diode to prevent interference with the key switch 
 Solder and cut the legs.  
 ![](img/diode6.jpg)  
 
-TRRSジャックを裏から差し込み表ではんだ付けします。  
-終わったらリセットスイッチを裏から差し込み表ではんだ付けします。   
+Solder TRRS Jacks and Tactile Switches.   
 ![](img/trrs.jpg)   
-フラックスリムーバーを使う場合ここで表面をきれいにしましょう。
+If you want to remove the flux from the surface, now is the time.
 ![](img/trrs2.jpg)  
 
 キースイッチを表から差し込み裏ではんだ付けします。  
