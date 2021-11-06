@@ -133,5 +133,5 @@ Used foostan's footprint.
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
-- Yushakobo: https://shop.yushakobo.jp/products/2796  
+- Yushakobo: https://shop.yushakobo.jp/en/products/2796  
 - BOOTH: https://tarohayashi.booth.pm/items/3154435  
