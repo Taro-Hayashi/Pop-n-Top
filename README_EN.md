@@ -38,19 +38,17 @@
 |WS2812B|9|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## 組み立て方（はんだ付け）
-正しくはんだ付けが終わるとこのようになります。  
+This is What it looks like if you done. 
 ![](img/full2.jpg)
 
-それではダイオードを、左手用はD1からD23まで右手用はD1からD27まで取り付けます。  
-足を曲げて裏から差し込みます。  
+Install the diodes from D1 to D23 for the left side, and D1 to D27 for the right side.      
 ![](img/diode1.jpg)  
-ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
+Diodes have a direction.
 
-表で更に足を曲げて抜けないようにします。  
-ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。  
+Bend the legs parallel to the diode to prevent interference with the key switch later.  
 ![](img/diode5.jpg)  
 
-はんだ付けをして足を切ります。  
+Solder and cut the legs.  
 ![](img/diode6.jpg)  
 
 TRRSジャックを裏から差し込み表ではんだ付けします。  
