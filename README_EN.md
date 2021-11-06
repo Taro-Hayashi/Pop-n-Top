@@ -70,7 +70,7 @@ Solder ProMicro.
 
 ## Testing
 Connect one of them to the PC with a USB cable.
-Access Remap with Chrome or Edge.
+Access Remap's firmware page with Chrome or Edge.
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
 Flash the Test firmware.
@@ -96,8 +96,9 @@ If there are no problems, soldering is finished.
 メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
 ![](img/bottom3.jpg)   
 
-キーキャップを取り付けたら本番用のファームウェアに更新しましょう。  
-- [popntop_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_leftconnected_via.hex)  
+キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+- https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
+![](img/remap06.jpg)  
 
 ゴム足を貼ってTRRSケーブルで左右を繋いだら完成です。  
 ![](img/rubber.jpg)  
@@ -106,11 +107,9 @@ USBケーブルは左手用に接続してください。
 
 ## Customize
 ![](img/layout.png)
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
-
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-
-  ChromeかEdgeでRemapにアクセスしてください。  
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
+  
+Access Remap. 
 - Remap https://remap-keys.app/  
 
 ![](img/remap1.png)  
