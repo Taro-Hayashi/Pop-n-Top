@@ -80,14 +80,10 @@ Push the tactile switch.
 ![](img/remap04.jpg) 
 ![](img/remap05.jpg) 
 
-
-
-お疲れ様でした。問題がなければはんだ付けは終了です。  
+You can type numbers from 1 to 50.
+If there are no problems, soldering is finished.  
 
 ## Assembling  
-USBケーブル、TRRSケーブルを抜いてプレートを組付けます。  
-アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
-
 メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。  
 ![](img/bottom1.jpg)  
 ボトムプレート（黒・中）をネジ（短）で止めます。  
