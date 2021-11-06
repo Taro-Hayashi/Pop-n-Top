@@ -89,9 +89,9 @@ You can type numbers from 1 to 50.
 If there are no problems, soldering is finished.  
 
 ## Assembling  
-メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。  
+Fasten the short spacer to the place circled in red on the back side with a short screw. 
+Fit the acrylic middle plate.
 ![](img/bottom1.jpg)  
-ボトムプレート（黒・中）をネジ（短）で止めます。  
 
 メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
 ![](img/bottom3.jpg)   
