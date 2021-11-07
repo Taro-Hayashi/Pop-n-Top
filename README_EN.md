@@ -61,7 +61,7 @@ Solder Switches.
 
 Put conthroughs.
 Make the top and bottom and front and back the same.  
-Conthroughs are not soldered so that they can be removed.  
+Conthroughs are not soldered so that Pro Micro can be removed.  
 ![](img/promicro1.jpg)    
 
 And put Pro Micro on conthroughs.
