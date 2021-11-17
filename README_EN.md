@@ -7,7 +7,7 @@
 
 ## Contents
 ![](img/set.jpg)  
-||Name|Quantity| |
+||Name|Quantities| |
 |-|-|-|-|
 |1|Main Board|2|Shorter is left side.|
 |2|Middle Plates|2||
