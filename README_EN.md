@@ -15,8 +15,8 @@
 |4|Acrylic Bottom Plates|2||
 |5|Short screws|36|3 mm|
 |6|Long screws|24|5 mm|
-|7|Short Spacers|18|3 mm|
-|8|Long Spacers|12|8 mm|
+|7|Short spacers|18|3 mm|
+|8|Long spacers|12|8 mm|
 |9|Diodes|50||
 |10|Tactile Switches|2||
 |11|TRRS Jacks|2||
