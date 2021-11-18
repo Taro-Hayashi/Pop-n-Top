@@ -3,7 +3,7 @@
 - [Soldering](#Soldering)
 - [Testing](#Testing)
 - [Assembling](#Assembling)
-- [Customize](#Customize)
+- [Customise](#Customise)
 
 ## Contents
 ![](img/set.jpg)  
@@ -111,7 +111,7 @@ Attaching the rubber feet and connecting the left and right sides with the TRRS 
 Plug the USB cable into the left side.  
 Thank you for your time.  
 
-## Customize
+## Customise
 ![](img/layout.png)
 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
   
