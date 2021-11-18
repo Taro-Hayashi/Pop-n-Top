@@ -9,17 +9,17 @@
 ![](img/set.jpg)  
 ||Name|Quantities| |
 |-|-|-|-|
-|1|Main Board|2|Shorter is left side.|
-|2|Middle Plates|2||
-|3|PCB Bottom Plates|2||
-|4|Acrylic Bottom Plates|2||
+|1|Main board|2|Shorter is left side.|
+|2|Middle plates|2||
+|3|PCB Bottom plates|2||
+|4|Acrylic Bottom plates|2||
 |5|Short screws|36|3 mm|
 |6|Long screws|24|5 mm|
 |7|Short spacers|18|3 mm|
 |8|Long spacers|12|8 mm|
 |9|Diodes|50||
-|10|Tactile Switches|2||
-|11|TRRS Jacks|2||
+|10|Tactile switches|2||
+|11|TRRS jacks|2||
 |12|Rubber feet|12||
 
 ## Additional required
