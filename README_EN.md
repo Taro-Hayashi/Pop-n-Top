@@ -132,7 +132,7 @@ JSON for Remap/VIA
 [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
 Plates data  
-[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_plates.zip)  
+[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
 
 Used foostan's footprint.
 https://github.com/foostan/kbd/  
