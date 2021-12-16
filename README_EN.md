@@ -6,7 +6,7 @@
 - [Customise](#Customise)
 
 ## Contents
-![](img/set.jpg)  
+![](img/IMG_4966.jpg)  
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|2|Shorter is left side.|
