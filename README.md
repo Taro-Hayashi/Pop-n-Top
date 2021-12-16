@@ -26,11 +26,12 @@
 ## キット以外に必要なもの
 |部品名|数|| |
 |-|-|-|-|
-|Pro Micro コンスルー付き|2||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
+|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
+|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |キースイッチ|50|Kailh Choc V1 もしくは V2||
 |キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3|[選び方](howtochosekeycaps.md)|
-|TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。||
-|Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。||
+|TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。|[遊舎工房](https://shop.yushakobo.jp/products/trrs_cable)、[TALPKEYBOARD](https://talpkeyboard.net/items/616a47820c98460d9bc49573)、[Daily Craft Keyboard](https://shop.dailycraft.jp/search?q=TRRS%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB)|
+|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
 |部品名|数|||
