@@ -23,12 +23,12 @@
 |10|リセットスイッチ|2||
 |11|TRRSジャック|2||
 |12|ゴム足|12||
+|13|Pro Micro|2||
+|14|コンスルー|4||
 
 ## キット以外に必要なもの
 |部品名|数|| |
 |-|-|-|-|
-|Pro Micro|2||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー 12ピン（高さ2.5mm）|4|4本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |キースイッチ|50|Kailh Choc V1 もしくは V2||
 |キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3|[選び方](howtochosekeycaps.md)|
 |TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。|[遊舎工房](https://shop.yushakobo.jp/products/trrs_cable)、[TALPKEYBOARD](https://talpkeyboard.net/items/616a47820c98460d9bc49573)、[Daily Craft Keyboard](https://shop.dailycraft.jp/search?q=TRRS%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB)|
