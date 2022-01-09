@@ -28,12 +28,12 @@
 
 
 ## キット以外に必要なもの
-|部品名|数|| |
-|-|-|-|-|
+|部品名|数||
+|-|-|-|
 |キースイッチ|50|Kailh Choc V1 もしくは V2||
-|キーキャップ|50|1Ux42、1.5Ux3、1.75Ux2、2Ux3|[選び方](howtochosekeycaps.md)|
-|TRRSケーブル|1|TRS（ステレオミニ）ケーブルでもいいです。|[遊舎工房](https://shop.yushakobo.jp/products/trrs_cable)、[TALPKEYBOARD](https://talpkeyboard.net/items/616a47820c98460d9bc49573)、[Daily Craft Keyboard](https://shop.dailycraft.jp/search?q=TRRS%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB)|
-|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|キーキャップ|50|[選び方](howtochosekeycaps.md)|
+|TRRSケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/trrs_cable)、[TALPKEYBOARD](https://talpkeyboard.net/items/616a47820c98460d9bc49573)、[Daily Craft Keyboard](https://shop.dailycraft.jp/search?q=TRRS%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB)|
+|Micro USB ケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
 |部品名|数|||
