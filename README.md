@@ -30,10 +30,10 @@
 ## キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|キースイッチ|50|Kailh Choc V1 もしくは V2||
+|キースイッチ|50|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ|50|[選び方](howtochosekeycaps.md)|
 |TRRSケーブル|1||
-|Micro USB ケーブル|1||
+|Micro-USB ケーブル|1||
 
 ## オプション
 |部品名|数|||
