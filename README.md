@@ -32,15 +32,14 @@
 |-|-|-|
 |キースイッチ|50|Kailh Choc V1 もしくは V2||
 |キーキャップ|50|[選び方](howtochosekeycaps.md)|
-|TRRSケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/trrs_cable)、[TALPKEYBOARD](https://talpkeyboard.net/items/616a47820c98460d9bc49573)、[Daily Craft Keyboard](https://shop.dailycraft.jp/search?q=TRRS%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB)|
-|Micro USB ケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|TRRSケーブル|1||
+|Micro USB ケーブル|1||
 
 ## オプション
 |部品名|数|||
 |-|-|-|-|
 |バックライトLED（SK6812MINI-E）|50|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |アンダーグローLED（WS2812B）|9|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
-|表面実装タイプのダイオード（1N4148W）|50||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
 ## 必要な工具
 |工具名|
