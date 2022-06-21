@@ -185,7 +185,7 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop  
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
 
 VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
