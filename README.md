@@ -42,9 +42,10 @@
 |WS2812B|9|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 
 ## 色違いアクリルプレート
-こちらで注文可能です。  
-https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023  
-デザインデータを公開しているので、ご自分で発注をかけることも可能です。  
+遊舎工房さんで注文可能です。  
+- https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023  
+
+デザインデータを公開しているのでご自分で発注をかけることも可能です。  
 - [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
 
 ## 必要な工具
