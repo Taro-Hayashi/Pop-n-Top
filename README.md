@@ -41,6 +41,12 @@
 |SK6812MINI-E|50|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |WS2812B|9|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 
+## 色違いアクリルプレート
+こちらで注文可能です。
+https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023
+デザインデータを公開しているので、ご自分で発注をかけることも可能です。
+[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
+
 ## 必要な工具
 |工具名|
 |-|
@@ -188,10 +194,6 @@ A4サイズです。定規があればプリントしなくても作れます。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
 
 VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
-
-ミドル、ボトムプレートのデザインデータ  
-[popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 
