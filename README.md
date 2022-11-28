@@ -191,6 +191,7 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 ![](img/tab.jpeg)  
 ゴム足を外して両面テープで固定すると安定します。  
 跡が残るといけないので画面には保護フィルムを貼ってください。  
+![](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/img/popntop.png?raw=true)
 
 ## おまけ
 寸法です。ダンボールで作れるペーパークラフトもあります。
