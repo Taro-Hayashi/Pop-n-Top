@@ -194,13 +194,14 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 
 デザインデータを公開しているのでご自分で発注をかけることも可能です。  
 - [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
-ファームウェアのフォルダ  
+
+### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
 
-VIA用のJSONファイル [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
+### VIA用のJSONファイル
+- [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
 
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-
+### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
