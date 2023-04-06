@@ -4,7 +4,7 @@
 - [動作テスト](#動作テスト)
 - [組み立て方（後半）](#組み立て方後半)
 - [カスタマイズ](#キーマップの確認変更方法)
-- [おまけ](#おまけ)
+- [その他](#その他)
 
 ## キット内容
 ![](img/IMG_5047.jpg)  
@@ -186,21 +186,21 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 跡が残るといけないので画面には保護フィルムを貼ってください。  
 ![](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/img/popntop.png?raw=true)
 
-## おまけ
+## その他
 
 ### 色違いアクリルプレート
 遊舎工房さんで注文可能です。  
 - https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023  
-
+  
 デザインデータを公開しているのでご自分で発注をかけることも可能です。  
 - [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
-
+  
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
-
+  
 ### VIA用のJSONファイル
 - [popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
-
+  
 ### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
