@@ -41,13 +41,6 @@
 |SK6812MINI-E|50|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |WS2812B|9|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 
-## 色違いアクリルプレート
-遊舎工房さんで注文可能です。  
-- https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023  
-
-デザインデータを公開しているのでご自分で発注をかけることも可能です。  
-- [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
-
 ## 必要な工具
 |工具名|
 |-|
@@ -194,13 +187,13 @@ RemapにはMac用のレイアウトも用意してありますのでよかった
 ![](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/img/popntop.png?raw=true)
 
 ## おまけ
-寸法です。ダンボールで作れるペーパークラフトもあります。
-![](img/size.png)　　
-![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/realsizeA4.pdf)  
 
-A4サイズです。定規があればプリントしなくても作れます。
+### 色違いアクリルプレート
+遊舎工房さんで注文可能です。  
+- https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890222498023  
 
+デザインデータを公開しているのでご自分で発注をかけることも可能です。  
+- [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
 
