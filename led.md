@@ -7,8 +7,7 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 
 ![](img/IMG_3662.jpg)  
 
-はんだ付けするだけでLEDが使えるようになります。  
-ESC長押しでRGB操作用のレイヤーになります。  
+左上のキーを長押しでRGB操作用のレイヤーになります。  
 ![](img/layoutrgb.png)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/a78d9342dd93a60fed1b255a5a018bf9)  
 
