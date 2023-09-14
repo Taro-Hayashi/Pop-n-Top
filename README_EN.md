@@ -128,9 +128,6 @@ After Drag-and-Drop the keys, press the flash button in the upper right corner.
 Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
 
-JSON for Remap/VIA  
-[popntop_leftconnected.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.15/popntop_leftconnected.json)  
-
 Plates data  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
 
