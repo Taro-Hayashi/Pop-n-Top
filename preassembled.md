@@ -39,7 +39,7 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 ![](img/_remap3.png)  
 
 ### USBの接続側を選ぶ
-レイアウトオプションでUSBの接続側を選んでください。  
+まずはレイアウトオプションでUSBの接続側を選んでください。  
 ![](img/_remaplayout.png)  
 
 ### キーマップの保存と復元
@@ -70,7 +70,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop
 
 ### 販売サイト
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
-- BOOTH: https://tarohayashi.booth.pm/items/3172502
+- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2796   
+- BOOTH: https://tarohayashi.booth.pm/items/3154435
 
 
