@@ -3,13 +3,13 @@
 ![](img/IMG_1758.jpg) 
   
 ## ファームウェアの書き込み
-到着したらまずは動作ソフト（ファームウェア）をCannonballに書き込みます。  
+まずは動作ソフト（ファームウェア）をPop'n Topに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリックします。
 
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
 > [!NOTE]
-> USBを接続する側でファームウェアを選んで、両方に同じファームウェアを書き込んでください。
+> USBを接続する側でファームウェアを選んで、両手のキーボードに同じファームウェアを書き込んでください。
   
 ![](img/firmware1.png)   
 ![](img/firmware2.png)   
