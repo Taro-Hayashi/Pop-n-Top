@@ -9,7 +9,7 @@ Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリッ
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
 > [!NOTE]
-> USBを接続する側に合わせてファームウェアを選んで、両方に同じファームウェアを書き込んでください。
+> USBを接続する側でファームウェアを選んで、両方に同じファームウェアを書き込んでください。
   
 ![](img/firmware1.png)   
 ![](img/firmware2.png)   
@@ -25,9 +25,8 @@ Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリッ
 ![](img/firmware4.png) 
 CLOSEを押してファームウェアの書き込みは完了です。
 
-### USBの接続側を選ぶ
-レイアウトオプションでUSBの接続側を選んでください。  
-![](img/remaplayout.png)  
+
+
 
 ## キーのカスタマイズ
 Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
@@ -39,11 +38,14 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 選択して接続してください。
 ![](img/_remap3.png)  
 
+### USBの接続側を選ぶ
+レイアウトオプションでUSBの接続側を選んでください。  
+![](img/_remaplayout.png)  
+
 ### キーマップの保存と復元
 ⇔アイコンで作ったキーマップを保存することができます。  
 ![](img/_remapkey.png)  
 作ったキーマップを共有することもできるので是非お試しください。
-
 
 
 ### キーを設定する
