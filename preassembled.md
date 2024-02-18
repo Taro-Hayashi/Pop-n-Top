@@ -61,10 +61,6 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 
 Hold-Tapもここから設定できます。
 
-### ロータリーエンコーダーを設定する
-丸いキーの左下をクリックすると時計回り、反時計回り、押し込みを切り替えることができるので、それぞれにキーを割り当てます。
-![](img/_remapenc.png)  
-
 ### 特殊なキーを設定する
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
 ![](img/_remapshortcuts.png)  
