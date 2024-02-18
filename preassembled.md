@@ -4,7 +4,7 @@
   
 ## ファームウェアの書き込み
 到着したらまずは動作ソフト（ファームウェア）をCannonballに書き込みます。  
-Google ChromeかMicrosoft Edgeでこちらにアクセスし、Remap用ファームウェアのFlashをクリックします。
+Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリックします。
 
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
