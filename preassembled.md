@@ -1,15 +1,15 @@
 # Pop'n Top キーボード 取り扱い説明書
 
-![](img/1758.jpg) 
+![](img/IMG_1758.jpg) 
   
 ## ファームウェアの書き込み
-到着したらまずは動作ソフト（ファームウェア）をCannonballに書き込みます。  
+まずは動作ソフト（ファームウェア）をPop'n Topに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリックします。
 
 - https://remap-keys.app/catalog/HJaX1fzuC9SmEQEK3czS/firmware
 
 > [!NOTE]
-> USBを接続する側に合わせてファームウェアを選んで、両方に同じファームウェアを１回ずつ計２回書き込んでください。
+> USBを接続する側でファームウェアを選んで、両手のキーボードに同じファームウェアを書き込んでください。
   
 ![](img/firmware1.png)   
 ![](img/firmware2.png)   
@@ -25,9 +25,8 @@ Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリッ
 ![](img/firmware4.png) 
 CLOSEを押してファームウェアの書き込みは完了です。
 
-### USBの接続側を選ぶ
-レイアウトオプションでUSBの接続側を選んでください。  
-![](img/remaplayout.png)  
+
+
 
 ## キーのカスタマイズ
 Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
@@ -39,11 +38,14 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 選択して接続してください。
 ![](img/_remap3.png)  
 
+### USBの接続側を選ぶ
+まずはレイアウトオプションでUSBの接続側を選んでください。  
+![](img/_remaplayout.png)  
+
 ### キーマップの保存と復元
 ⇔アイコンで作ったキーマップを保存することができます。  
 ![](img/_remapkey.png)  
 作ったキーマップを共有することもできるので是非お試しください。
-
 
 
 ### キーを設定する
@@ -59,10 +61,6 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 
 Hold-Tapもここから設定できます。
 
-### ロータリーエンコーダーを設定する
-丸いキーの左下をクリックすると時計回り、反時計回り、押し込みを切り替えることができるので、それぞれにキーを割り当てます。
-![](img/_remapenc.png)  
-
 ### 特殊なキーを設定する
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
 ![](img/_remapshortcuts.png)  
@@ -72,7 +70,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop
 
 ### 販売サイト
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
-- BOOTH: https://tarohayashi.booth.pm/items/3172502
+- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2796   
+- BOOTH: https://tarohayashi.booth.pm/items/3154435
 
 
