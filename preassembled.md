@@ -1,7 +1,16 @@
 # Pop'n Top キーボード 取り扱い説明書
 
+
+  
+## 内容品
+- Pop'n Topキーボード 1個
+- TRRSケーブル 1本
+
 ![](img/IMG_1758.jpg) 
   
+## ご用意いただくもの
+- USBケーブル
+- Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）
 ## ファームウェアの書き込み
 まずは動作ソフト（ファームウェア）をPop'n Topに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリックします。
