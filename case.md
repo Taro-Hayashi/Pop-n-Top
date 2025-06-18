@@ -2,28 +2,28 @@
 
 ## Cintiq Pro用インチネジケース
 
-![](img/IMG_4292.jpg)
+![](img/case/IMG_4292.jpg)
 キーボード背面のネジを全て外してアクリルプレート、ボトムプレートを外します。
-![](img/IMG_4127.jpg)
+![](img/case/IMG_4127.jpg)
 メインボードをケースに収めます。
-![](img/IMG_4151.jpg)
+![](img/case/IMG_4151.jpg)
 もとのネジでケースを取り付けます。
-![](img/IMG_4301.jpg)
+![](img/case/IMG_4301.jpg)
 Cintiq Proに固定します。
-![](img/IMG_4310.jpg)
+![](img/case/IMG_4310.jpg)
 片手につき3種類取り付け場所があります（22では左右が重なって使えないパターンがあります）。
-![](img/IMG_4315.jpg)
+![](img/case/IMG_4315.jpg)
 
 
 ## 机上用ケース
 
-![](img/IMG_4292.jpg)
+![](img/case/MG_4292.jpg)
 キーボード背面のネジを全て外してアクリルプレート、ボトムプレートを外します。
-![](img/IMG_4127.jpg)
+![](img/case/IMG_4127.jpg)
 メインボードをケースに収めます。
-![](img/IMG_4151.jpg)
+![](img/case/IMG_4151.jpg)
 もとのネジでケースを取り付けてゴム足を付けます。
-![](img/IMG_4169.jpg)
-![](img/IMG_4177.jpg)
+![](img/case/IMG_4169.jpg)
+![](img/case/IMG_4177.jpg)
 
 
