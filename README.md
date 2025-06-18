@@ -38,6 +38,13 @@
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|50|バックライト|
 |[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|9|アンダーグロー|
 
+### Cintiq Pro用インチネジケース、机上用ケース
+![](img/case/IMG_4446.jpg) 
+
+![](img/case/IMG_4438.jpg) 
+
+https://tarohayashi.booth.pm/items/3154435
+
 ## 必要な工具
 |工具名|
 |-|
