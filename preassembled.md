@@ -80,6 +80,13 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 キーキャップ引き抜き用の工具を使い側面を掴み垂直に引き抜く事を意識すると抜きやすいです。
 ![](img/pull.jpg)  
 
+### 液晶タブレットに乗せる
+1番上の行を引っ掛ける事で液タブに乗せる事ができます。  
+![](img/tab.jpeg)  
+ゴム足を外して両面テープで固定すると安定します。  
+跡が残るといけないので画面には保護フィルムを貼ってください。  
+![](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/img/popntop.png?raw=true)
+
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop
 
