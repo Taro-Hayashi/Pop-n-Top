@@ -1,4 +1,4 @@
-# Pop'n Top Cintiq Pro用インチネジケース、机上用ケース
+# Pop'n Top Cintiq Pro用インチネジケース、机上用ケースの取り付け方
 
 ## Cintiq Pro用インチネジケース
 
