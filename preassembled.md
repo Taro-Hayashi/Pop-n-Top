@@ -87,11 +87,6 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 跡が残るといけないので画面には保護フィルムを貼ってください。  
 ![](https://github.com/Taro-Hayashi/Pop-n-Top/blob/main/img/popntop.png?raw=true)
 
-### Cintiq Pro用インチネジケース
-Cintiq Pro22, 27の上部のネジ穴に合わせてネジを取り付けます。
-![](img/case/IMG_4310.jpg)  
-
-
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop
 
