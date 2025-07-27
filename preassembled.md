@@ -10,7 +10,7 @@
   
 ## ご用意いただくもの
 - Type-C USBケーブル
-- Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）
+- Windows/Mac（iPad、Androidでも使用できますが設定ができません）
 ## ファームウェアの書き込み
 まずは動作ソフト（ファームウェア）をPop'n Topに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Flashをクリックします。
