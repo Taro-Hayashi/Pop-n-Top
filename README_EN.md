@@ -126,7 +126,7 @@ After Drag-and-Drop the keys, press the flash button in the upper right corner.
 
 ## Misc
 Firmware  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/popntop  
+- [qmk_firmware](qmk_firmware)
 
 Plates data  
 [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
@@ -136,4 +136,4 @@ https://github.com/foostan/kbd/
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
 - Yushakobo: https://shop.yushakobo.jp/en/products/2796  
-- BOOTH: https://tarohayashi.booth.pm/items/3154435  
+- BOOTH: https://tarohayashi.booth.pm/items/3154435

@@ -174,7 +174,7 @@ USBケーブルは左手用に接続してください。
 - [popntop_plates.zip](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/14.20/popntop_plates.zip)  
   
 ### ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop  
+- [qmk_firmware](qmk_firmware)
   
 ### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
@@ -182,4 +182,4 @@ https://github.com/foostan/kbd/
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
 - 遊舎工房: https://shop.yushakobo.jp/products/2796  
-- BOOTH: https://tarohayashi.booth.pm/items/3154435  
+- BOOTH: https://tarohayashi.booth.pm/items/3154435
