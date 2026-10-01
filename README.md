@@ -24,9 +24,12 @@
 |12|コンスルー|4||
 
 ## キット以外に必要なもの
+
+リンクにはアフィリエイトリンクを含みます。
+
 |部品名|数||
 |-|-|-|
-|キースイッチ|50|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Lofree ロープロファイル](https://shop.yushakobo.jp/products/8381)|
+|キースイッチ|50|[Kailh choc V1](https://shop.yushakobo.jp/collections/choc-v1)、Kailh Choc V2（[遊舎工房](https://shop.yushakobo.jp/collections/choc-v2)、[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/keyswitch?ref=tarohayashi)）|
 |キーキャップ|50|[選び方](howtochosekeycaps.md)|
 |TRRSケーブル|1||
 |Micro-USB ケーブル|1||
